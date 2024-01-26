@@ -1,0 +1,14 @@
+---
+title: Rules of the Game
+---
+
+Players start with a hand of seven white cards featuring concepts pertinent to
+Open Science, which are contextualised via brief support text and a corresponding
+hyperlink. A player is selected to be the first judge, and that judge plays a red
+card, which presents a larger Open Science topic. Players select a white card and
+explain their 
+
+The round is won by playing the white card that the judge determines to be the match
+for the red card. Each judge reserves the right to determine the criteria for a match
+and the role of the judge rotates. The number of rounds is determined by the number
+of players. The game is designed for three to seven players and can be played for 30–75 minutes.

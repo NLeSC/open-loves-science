@@ -1,0 +1,51 @@
+# White Cards
+
+## Inclusivity
+
+Science is like building a house. This is not something that you can do alone.
+
+<https://youtu.be/tB_HeqnonNM?si=DyKlzBw1ONl1HAlf>
+
+## FAIR
+
+Findable, Accessible, Interoperable, and Reusable
+
+<https://www.go-fair.org/fair-principles/>
+
+## Transparency
+
+“Transparent research practices and processes also serve to demonstrate more rigorous methodologies or experimental protocols and to strengthen public perceptions of research quality, integrity and trust in the results, claims, conclusions and assertions derived from research activities.”
+
+<https://doi.org/10.18352/lq.10113>
+
+## Cat Memes
+
+Publish or Purrrish
+
+<https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html>
+
+
+## Capitalism
+
+“the appropriation of traditional knowledge, privatization of the intellectual commons, commodification of teaching materials, scholarship, scientific research, and scientific publications”
+
+<https://www.tandfonline.com/doi/full/10.1080/19460171.2017.1403342>
+
+## Judicious Connections
+
+“a process-oriented epistemology of science that recognizes the situated, embodied and goal-directed nature of communication and collaboration among researchers”
+
+<https://doi.org/10.1017/9781009416368>
+
+## Commercial Publishing
+
+“Is the staggeringly profitable business of scientific publishing bad for science?”
+
+<https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science>
+
+## Digital Sovereignty
+
+“the ability to have control over your own digital destiny: the data, hardware, and software that you rely on and create - is paramount for universities and other academic institutions as a prerequisite for equitable and open research and teaching”
+
+<https://doi.org/10.5281/zenodo.8328514>
+
