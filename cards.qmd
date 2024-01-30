@@ -49,3 +49,310 @@ Publish or Purrrish
 
 <https://doi.org/10.5281/zenodo.8328514>
 
+
+## Beyoncé
+
+“Okay, ladies, now let’s get in-formation.”
+
+<https://youtu.be/WDZJPJV__bQ?si=RLGOWMTUfp5e3Os5>
+
+## Preprint
+
+“Sharing preprints is a way to receive feedback and attract attention to your research at an early stage, which positively benefits the quality and impact of your research.”
+
+<https://doi.org/10.5281/zenodo.5600535>
+
+## Precarity
+
+“Open Science is primarily a labour issue, not an epistemological one.”
+
+<https://www.samuelmoore.org/2022/06/18/why-open-science-is-primarily-a-labour-issue/>
+
+## Free License
+
+“When you make a creative work (which includes code), the work is under exclusive copyright by default. Unless you include a license that specifies otherwise, nobody else can copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.”
+
+<https://choosealicense.com/>
+
+## Epistemic Justice
+
+"Open and Responsible Science that seeks justice in access to knowledge puts equity between forms of knowledges and ways of knowing at the very centre of knowledge acquisition."
+
+<https://youtu.be/mAurbQq8WsU?si=VdPZxliFPFij2Dft>
+ 
+## Democracy
+
+“Knowledge that is created by public funding should be available to everyone and go beyond the walls of the academic system.”
+
+<https://open-science.cwts.nl/introduction/introduction-to-os-five-schools-of-open-science/democratic-school>
+
+## Invisible Labour
+
+“Open research practices represent a novel type of academic labour with high potential to be mismeasured or made invisible by workload models, raising expectations to even more unrealistic levels.”
+
+<https://journal.trialanderror.org/pub/the-invisible-workload/release/1>
+
+## Retraction Watch
+
+A website and blog that monitors and reports on retractions of scientific research articles, founded by Ivan Oransky and Adam Marcus
+
+<https://retractionwatch.com/>
+
+## Storytelling
+
+“Research in neuroscience has found that oral storytelling triggers different cognitive processes than facts, thus reducing the incidence of negative thoughts and feelings that are often generated when presented with new and challenging information.”
+
+<https://blogs.lse.ac.uk/impactofsocialsciences/2023/01/24/facts-dont-change-minds-social-networks-group-dialogue-and-stories-do/>
+
+## University Rankings
+
+“Rankings put too much stress on scoring and competition… it is almost impossible to capture the quality of an entire university…Also, the makers of the rankings use data and methods that are highly questionable.”
+
+<https://www.uu.nl/en/news/why-uu-is-missing-in-the-the-ranking>
+
+## Plan S
+
+a consortium of research agencies and funders from 20 countries who state that “research funded by public or private grants must be published in open access journals or platforms”
+
+<https://open-science.cwts.nl/introduction/open-scholarly-communication/a-brief-overview-of-plan-s>
+
+## Open-Washing
+
+“data publishers that are claiming their data is open, even when it’s not – but rather just available under limiting terms”
+
+<https://blog.okfn.org/2014/03/10/open-washing-the-difference-between-opening-your-data-and-simply-making-them-available/>
+
+## Spaghetti Code
+
+“research is increasingly reliant on technology, so it’s important that researchers have access to the support and education they need to develop and use high-quality code”
+
+<https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0>
+
+## Pirate Care
+
+“increasingly present forms of activism at the intersection of ‘care’ and ‘piracy’, which in new and interesting ways are trying to intervene in one of the most important challenges of our time, that is, the ‘crisis of care’ in all its multiple and interconnected dimensions.”
+
+<https://syllabus.pirate.care/>
+
+## PIDs
+
+“A persistent identifier is a long-lasting reference to a digital resource.”
+
+<https://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs->
+
+## APCs
+
+“Article Processing Charges and the new enclosure of research”
+
+<https://blogs.lse.ac.uk/impactofsocialsciences/2022/08/11/article-processing-charges-apcs-and-the-new-enclosure-of-research/>
+
+## Surveillance Publishing
+
+“our behavior—once alienated from us and abstracted into predictive metrics—will double back onto our work lives. Existing biases, like male academics’ propensity for self-citation, will receive a fresh coat of algorithmic legitimacy.”
+
+<https://elephantinthelab.org/surveillance-publishing/>
+
+## Metadata
+
+“data about data… to make data findable [and] to make data citable”
+
+<https://rdm.uva.nl/en/looking-after/metadata/metadata.html?cb>
+
+## Privilege
+
+“Failing to address structural inequalities directly means that the advantages of those who are already privileged will grow, especially given that they have the most influence over how open science is implemented.”
+
+<https://doi.org/10.1038/d41586-022-00724-0>
+
+## Alexandra Elbakyan
+
+“she landed on an internet forum where a bunch of scientists were all looking for the same thing: access to academic journal articles that were behind paywalls. That’s the moment the very simple, but enormously powerful, website called Sci-Hub was born.”
+
+<https://radiolab.org/podcast/library-alexandra>
+
+## Climate Crisis
+
+“Scientists Call out Publisher’s Ties to Fossil Fuel Industry”
+
+<https://blog.ucsusa.org/kristy-dahl/5-anti-climate-practices-elsevier-must-cease-scientists-call-out-publishers-ties-to-fossil-fuel-industry/>
+
+## Globalisation
+
+“Shifting from a local to a global viewpoint ought to mean multiplying viewpoints, registering a greater number of varieties, taking into account a larger number of beings, cultures, phenomena, organisms, and people.”
+
+<https://youtu.be/EqzSVFmaH94?si=1G3sv1kcrPdHPLMQ>
+
+## Data Management Plans {#dmps}
+
+“much more than a formal requirement by funders or research institutions: they can be reflection tools to help researchers manage and plan their activities around data.”
+
+<https://open-science.cwts.nl/introduction/open-data-software-and-infrastructures/data-management-plans>
+
+## Team Science
+
+“we leverage the strengths of diverse research teams, recognising that we cannot solve the significant challenges of our time through isolated endeavours”
+
+<https://doi.org/10.36850/mr8>
+
+## Stochastic Parrots
+
+“a system for haphazardly stitching together sequences of linguistic forms it has observed in its vast training data, according to probabilistic information about how they combine, but without any reference to meaning”
+
+<https://doi.org/10.1145/3442188.3445922>
+
+## Digital Competence Centers {#dcc}
+
+“DCCs are still relatively unknown among researchers within universities and research institutions, even though many of them receive requests for support in the area of data, software and computing.”
+
+<https://www.nwo.nl/en/news/digital-competence-centers-knowledge-institutions-forging-ahead>
+
+## Early Career Researchers
+
+“The Future is Open!”
+
+<https://doi.org/10.5281/zenodo.7716153>
+
+## University Governance
+
+“the system by which faculty, administrators, the board, and sometimes–but rarely–students work together to accomplish the academic mission of the institution.”
+
+<https://manifold.umn.edu/projects/opening-ceremony>
+
+## Heroes
+
+“Does science need heroes or does it need to reform? Idolizing heroes can worsen bias, inequality, and competition in science. Yet, it does require good leadership to ignite structural change.”
+
+<https://www.leidenmadtrics.nl/articles/does-science-need-heroes>
+
+## The Right To Research {#right-to-research}
+
+“the capacity to systematically increase the horizons of one's current knowledge, in relation to some task, goal or aspiration”
+
+<https://doi.org/10.1080/14767720600750696>
+
+## The Library
+
+“Libraries as Open Innovators and Leaders” 
+
+<https://doi.org/10.5281/zenodo.3909327>
+
+## Research Software Engineer {#rse}
+
+“a professional who combines expertise in software development and methodology with deep knowledge of one or more research fields”
+
+<https://doi.org/10.5281/zenodo.7994286>
+
+## Transformative Agreements
+
+“Transformative agreements are also known as read-and-publish, publish-and-read, and offsetting agreements. It’s a contract where an institution pays for (1) a subscription to a publisher’s bundle of journals and (2) for their author’s articles to be made open access in some of those journals.”
+
+<http://dx.doi.org/10.17613/xmj2-zd67>
+
+## Testimony
+
+“Research outputs are a form of testimony with researchers serving as expert testifiers. Research outputs align with philosophical understandings of testimony, as research represents an everyday, informal communicative act.”
+
+<https://doi.org/10.5860/crl.84.4.513>
+
+## The Commons
+
+“a practice of cultivating and caring for the relationships that exist around the production of shared resources”
+
+<http://dx.doi.org/10.17613/M6901ZF54>
+
+## Worms
+
+“How a worm showed us the way to open science”
+
+<https://youtu.be/CTwcYQ9WHOA?si=G0zCjnObeCK9eiwk>
+
+## Disruption
+
+“Recent decades have witnessed exponential growth in the volume of new scientific and technological knowledge, thereby creating conditions that should be ripe for major advances. Yet contrary to this view, studies suggest that progress is slowing in several major fields.”
+
+<https://doi.org/10.1038/s41586-022-05543-x>
+
+## Aaron Swartz
+
+“We need to take information, wherever it is stored, make our copies and share them with the world…But sharing isn't immoral — it's a moral imperative. Only 
+those blinded by greed would refuse to let a friend make a copy.”
+
+<https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt>
+
+## Gender
+
+“Undoing Gender in Academia: Personal Reflections on Equal Opportunity Schemes” by Susan Täuber
+
+<https://doi.org/10.1111/joms.12516>
+
+## Modular Publishing
+
+“modules of research outputs are communicated along the way and are directly linked to each other to form a network of outputs that can facilitate research evaluation”
+
+<https://doi.org/10.3390/publications6020021>
+
+## Scaling Small
+
+“the idea that scale can be nurtured through intentional collaborations between community-driven pro­jects that promote a bibliodiverse ecosystem while providing resilience through resource sharing and other kinds of collaboration”
+
+<https://doi.org/10.16997/wpcc.918>
+
+## Failure
+
+“academia should embrace failure: It is a community built on the twin pillars of education and research using the scientific method, with failure playing a vital role in both”
+
+<https://journal.trialanderror.org/pub/failfast/release/4>
+
+## Scientific Reform
+
+“reform foregrounds values that never were strangers to science such as honesty, transparency and accountability, yet seeks to embed them into changed or improved scientific processes and instruments”
+
+<https://doi.org/10.1177/02704676221126388>
+
+## FOSS – Free and Open Source Software {#foss}
+
+“Developing software in the open enhances opportunities to improve transparency, security, and innovation, and even establish a competitive advantage.”
+
+<https://commonplace.knowledgefutures.org/pub/ktd793z4/release/1?readingCollection=54d28214>
+
+## Independence
+
+“The power that technology companies hold could damage the autonomy of science.”
+
+<https://youtu.be/9W9eN0zOJxk?si=do34xEyJXJ1wLPJZ>
+
+## Community
+
+“Research and Knowledge Organisations are impactful primarily through their capacity to bring people together. Therefore, Community is crucial to the generative function and success of Research and Knowledge Organisations.”
+
+<https://doi.org/10.53962/k06w-2ket>
+
+## Reclaiming The Internet {#reclaiming-internet}
+
+“We need alternative platforms that serve society instead of listed companies.”
+
+<https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-geesteswetenschappen/news/2022/10/we-must-reclaim-the-internet-before-it-is-too-late.html>
+
+## Dual-Use
+
+“Dual-use research of concern (DURC) describes research that is intended to provide a clear benefit, but which could easily be misapplied to do harm.”
+
+<https://www.who.int/news-room/questions-and-answers/item/what-is-dual-use-research-of-concern>
+
+## Data Privacy
+
+“We need to enact data privacy laws that require data companies to be more transparent about how they are collecting and using our data, and more accountable for it.”
+
+<https://www.wired.com/story/big-information-relx-privacy-surveillance-data/>
+
+## Knowledge Security
+
+“(1) the undesirable transfer of knowledge and technology that may pose a threat to national security, (2) covert influence and interference by or from other states, and (3) ethical and integrity issues”
+
+<https://www.knaw.nl/en/news/royal-netherlands-academy-arts-and-sciences-knaw-warns-against-proposed-knowledge-security-act>
+
+## Creativity
+
+“even though the creative act requires considerable effort, in the end you will be contributing to the vast network of love that supports human existence”
+
+<https://www.theredhandfiles.com/chatgpt-making-things-faster-and-easier/>

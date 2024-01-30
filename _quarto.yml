@@ -4,6 +4,8 @@ project:
 website:
   title: "Open ❤️ Science"
   repo-url: "https://github.com/bbartholdy/open-love-science"
+  page-footer: 
+    left: "Made with ❤️ and Quarto"
   navbar:
     left:
       - href: index.qmd
