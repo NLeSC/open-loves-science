@@ -9,7 +9,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: "Home"
+        text: ""
       - href: cards.qmd
         text: "Cards"
       - href: rules.qmd
