@@ -1,13 +1,13 @@
-# Open ❤ Science
+## Open ❤ Science
 
-Cards and code to create cards for Open❤️Science, a educational game
+Cards and code to create cards for Open❤️Science, an educational game
 based on Apples to Apples.
 This game can be played in person or online. If you are interested
 in the printed game, please reach out to us ([rdm@vu.nl](mailto:rdm@vu.nl))
 
-# Goal of the Game
+## Goal of the Game
 
-Welcome to Open ❤ Science, a card game designed to spark playful yet
+Welcome to Open Loves Science, a card game designed to spark playful yet
 insightful dialogues about the Open Science movement. As players delve
 into an array of topics related to this stream of research reform,
 they are encouraged to reflect on their contributions and beliefs
@@ -16,12 +16,12 @@ essence of Open Science - fostering connections. It invites players to
 look into each other's eyes, exchange ideas, and deepen their
 understanding of each other and each other’s research.
 
-# Acknowledgements
+## Acknowledgements
 
 This game was created by the **GHOST Collective**, Games of Horror for Open Science Training. GHOST includes:
 
 
-- Bjorn Bartholdy, TU Delft
+- Bjørn Bartholdy, TU Delft
 - Dafne Jansen, Universiteit Utrecht
 - Dan Rudmann, Leiden University
 - Elisa Rodenburg, Vrije Universiteit Amsterdam 
@@ -35,3 +35,4 @@ This game was created by the **GHOST Collective**, Games of Horror for Open Scie
 
 Previous GHOST collective games include the [Software Horror Escape Room](https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html) and [Data Horror Escape Room](https://sites.google.com/vu.nl/datahorror/home?authuser=0)
 
+![](https://github.com/ubvu/OpenTOScience/blob/main/images/GHOST.gif?raw=true)
