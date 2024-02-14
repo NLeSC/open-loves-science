@@ -2,442 +2,470 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Open TO Science",
+    "title": "O❤️S",
     "section": "",
-    "text": "Open TO Science\nCards and code to create cards for Open❤️Science, a educational game based on Apples to Apples. This game can be played in person or online. If you are interested in the printed game, please reach out to us (rdm@vu.nl)\n\n\nGoal of the Game\nIn Open❤️Science, players are invited to engage in playful and deep conversations about Open Science. The card game features an encyclopedia of issues that pervade this movement of research reform and ask participants to consider their role and values in changing academic culture. Like Open Science, this game is about connection. Players are meant to look into each other’s eyes, engage in conversation, and better understand one another.\n\n\nPlaying online\nYou can play with the Open Science Against Humanity deck here.\nOne player needs to start the game and invite the others. To do so, fill in one name and click on “Play”.\nIn the “Deck Source” dropdown menu select Many Decks and for the deck code use DNGZN. Next click on the “+” to add the deck. You will receive a game code that you can share with fellow players. They can join the game by going to https://md.rereadgames.com/games/[game code]\nNote that optional adjustments in the rules and time limits are possible if you have specific preferences.\nNext click on the :loudspeaker: to invite 2 or 3 other players to the game. Once they join, you can start the game!\nWhen you start playing, the rules described in the section above “How to play” apply.\nNote that when playing online, you can’t actually “see” whether someone played a card, is thinking. Or who is the Reviewer and who is playing (if you are reviewing, you can’t play a card!). If you are confused about what is happening, press the “?” at the top of the game window. The game will tell you what your role is and what you are supposed to do. If you are playing and have selected a card, do not forget to press the check mark at the bottom right of the screen to send the card to the pile of played cards.\nIf you click on the top left “Show or hide the scoreboard”, you can see the status and roles during each round. But also, don’t forget to keep talking to each other :game_die: :ghost: :smiley: :game_die:\n\n\nHow to Play\n🧍3-7 players ⏰ 30 - 75 minutes 🏋️ difficulty level: researcher friendly\nPlayers start with a hand of seven white cards featuring concepts pertinent to Open Science, which are contextualised via their corresponding link. A player is selected to be the first judge, and that judge plays a red card, which presents a larger Open Science topic. The round is won by playing the white card that the judge determines to be the match for the red card. The role of the judge rotates, and the number of rounds is determined by the number of players.\n\n\nAcknowledgements\nThis game was created by the GHOST Collective, Games of Horror for Open Science Training. GHOST includes:\n\nBjorn Bartholdy, TU Delft\nDafne Jansen, Universiteit Utrecht\nDan Rudmann, Leiden University\nElisa Rodenburg, Vrije Universiteit Amsterdam\nEva Lekkerkerker, University of Amsterdam\nLena Karvovskaya, Vrije Universiteit Amsterdam\nLieke de Boer, Netherlands eScience Center\nMeron Vermaas, Vrije Universiteit Amsterdam\nStefan Kirsch, Tilburg University\nStephanie van de Sandt, Vrije Universiteit Amsterdam\nTycho Hofstra, Vrije Universiteit Amsterdam\n\nPrevious GHOST collective games include the Software Horror Escape Room and Data Horror Escape Room # OpenTOScience"
+    "text": "Cards and code to create cards for Open❤️Science, an educational game based on Apples to Apples. This game can be played in person or online. If you are interested in the printed game, please reach out to us (rdm@vu.nl)"
   },
   {
-    "objectID": "rules.html",
-    "href": "rules.html",
-    "title": "Rules of the Game",
+    "objectID": "index.html#open-science",
+    "href": "index.html#open-science",
+    "title": "O❤️S",
     "section": "",
-    "text": "Players start with a hand of seven white cards featuring concepts pertinent to Open Science, which are contextualised via brief support text and a corresponding hyperlink. A player is selected to be the first judge, and that judge plays a red card, which presents a larger Open Science topic. Players select a white card and explain their\nThe round is won by playing the white card that the judge determines to be the match for the red card. Each judge reserves the right to determine the criteria for a match and the role of the judge rotates. The number of rounds is determined by the number of players. The game is designed for three to seven players and can be played for 30–75 minutes."
+    "text": "Cards and code to create cards for Open❤️Science, an educational game based on Apples to Apples. This game can be played in person or online. If you are interested in the printed game, please reach out to us (rdm@vu.nl)"
+  },
+  {
+    "objectID": "index.html#goal-of-the-game",
+    "href": "index.html#goal-of-the-game",
+    "title": "O❤️S",
+    "section": "Goal of the Game",
+    "text": "Goal of the Game\nWelcome to Open Loves Science, a card game designed to spark playful yet insightful dialogues about the Open Science movement. As players delve into an array of topics related to this stream of research reform, they are encouraged to reflect on their contributions and beliefs towards transforming the academic landscape. This game celebrates the essence of Open Science - fostering connections. It invites players to look into each other’s eyes, exchange ideas, and deepen their understanding of each other and each other’s research."
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "O❤️S",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThis game was created by the GHOST Collective, Games of Horror for Open Science Training. GHOST includes:\n\nBjørn Bartholdy, TU Delft\nDafne Jansen, Universiteit Utrecht\nDan Rudmann, Leiden University\nElisa Rodenburg, Vrije Universiteit Amsterdam\nEva Lekkerkerker, University of Amsterdam\nLena Karvovskaya, Vrije Universiteit Amsterdam\nLieke de Boer, Netherlands eScience Center\nMeron Vermaas, Vrije Universiteit Amsterdam\nStefan Kirsch, Tilburg University\nStephanie van de Sandt, Vrije Universiteit Amsterdam\nTycho Hofstra, Vrije Universiteit Amsterdam\n\nPrevious GHOST collective games include the Software Horror Escape Room and Data Horror Escape Room"
   },
   {
     "objectID": "cards.html",
     "href": "cards.html",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "Science is like building a house. This is not something that you can do alone.\nhttps://youtu.be/tB_HeqnonNM?si=DyKlzBw1ONl1HAlf\n\n\n\nFindable, Accessible, Interoperable, and Reusable\nhttps://www.go-fair.org/fair-principles/\n\n\n\n“Transparent research practices and processes also serve to demonstrate more rigorous methodologies or experimental protocols and to strengthen public perceptions of research quality, integrity and trust in the results, claims, conclusions and assertions derived from research activities.”\nhttps://doi.org/10.18352/lq.10113\n\n\n\nPublish or Purrrish\nhttps://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html\n\n\n\n“the appropriation of traditional knowledge, privatization of the intellectual commons, commodification of teaching materials, scholarship, scientific research, and scientific publications”\nhttps://www.tandfonline.com/doi/full/10.1080/19460171.2017.1403342\n\n\n\n“a process-oriented epistemology of science that recognizes the situated, embodied and goal-directed nature of communication and collaboration among researchers”\nhttps://doi.org/10.1017/9781009416368\n\n\n\n“Is the staggeringly profitable business of scientific publishing bad for science?”\nhttps://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science\n\n\n\n“the ability to have control over your own digital destiny: the data, hardware, and software that you rely on and create - is paramount for universities and other academic institutions as a prerequisite for equitable and open research and teaching”\nhttps://doi.org/10.5281/zenodo.8328514\n\n\n\n“Okay, ladies, now let’s get in-formation.”\nhttps://youtu.be/WDZJPJV__bQ?si=RLGOWMTUfp5e3Os5\n\n\n\n“Sharing preprints is a way to receive feedback and attract attention to your research at an early stage, which positively benefits the quality and impact of your research.”\nhttps://doi.org/10.5281/zenodo.5600535\n\n\n\n“Open Science is primarily a labour issue, not an epistemological one.”\nhttps://www.samuelmoore.org/2022/06/18/why-open-science-is-primarily-a-labour-issue/\n\n\n\n“When you make a creative work (which includes code), the work is under exclusive copyright by default. Unless you include a license that specifies otherwise, nobody else can copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.”\nhttps://choosealicense.com/\n\n\n\n“Open and Responsible Science that seeks justice in access to knowledge puts equity between forms of knowledges and ways of knowing at the very centre of knowledge acquisition.”\nhttps://youtu.be/mAurbQq8WsU?si=VdPZxliFPFij2Dft\n\n\n\n“Knowledge that is created by public funding should be available to everyone and go beyond the walls of the academic system.”\nhttps://open-science.cwts.nl/introduction/introduction-to-os-five-schools-of-open-science/democratic-school\n\n\n\n“Open research practices represent a novel type of academic labour with high potential to be mismeasured or made invisible by workload models, raising expectations to even more unrealistic levels.”\nhttps://journal.trialanderror.org/pub/the-invisible-workload/release/1\n\n\n\nA website and blog that monitors and reports on retractions of scientific research articles, founded by Ivan Oransky and Adam Marcus\nhttps://retractionwatch.com/\n\n\n\n“Research in neuroscience has found that oral storytelling triggers different cognitive processes than facts, thus reducing the incidence of negative thoughts and feelings that are often generated when presented with new and challenging information.”\nhttps://blogs.lse.ac.uk/impactofsocialsciences/2023/01/24/facts-dont-change-minds-social-networks-group-dialogue-and-stories-do/\n\n\n\n“Rankings put too much stress on scoring and competition… it is almost impossible to capture the quality of an entire university…Also, the makers of the rankings use data and methods that are highly questionable.”\nhttps://www.uu.nl/en/news/why-uu-is-missing-in-the-the-ranking\n\n\n\na consortium of research agencies and funders from 20 countries who state that “research funded by public or private grants must be published in open access journals or platforms”\nhttps://open-science.cwts.nl/introduction/open-scholarly-communication/a-brief-overview-of-plan-s\n\n\n\n“data publishers that are claiming their data is open, even when it’s not – but rather just available under limiting terms”\nhttps://blog.okfn.org/2014/03/10/open-washing-the-difference-between-opening-your-data-and-simply-making-them-available/\n\n\n\n“research is increasingly reliant on technology, so it’s important that researchers have access to the support and education they need to develop and use high-quality code”\nhttps://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0\n\n\n\n“increasingly present forms of activism at the intersection of ‘care’ and ‘piracy’, which in new and interesting ways are trying to intervene in one of the most important challenges of our time, that is, the ‘crisis of care’ in all its multiple and interconnected dimensions.”\nhttps://syllabus.pirate.care/\n\n\n\n“A persistent identifier is a long-lasting reference to a digital resource.”\nhttps://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs-\n\n\n\n“Article Processing Charges and the new enclosure of research”\nhttps://blogs.lse.ac.uk/impactofsocialsciences/2022/08/11/article-processing-charges-apcs-and-the-new-enclosure-of-research/\n\n\n\n“our behavior—once alienated from us and abstracted into predictive metrics—will double back onto our work lives. Existing biases, like male academics’ propensity for self-citation, will receive a fresh coat of algorithmic legitimacy.”\nhttps://elephantinthelab.org/surveillance-publishing/\n\n\n\n“data about data… to make data findable [and] to make data citable”\nhttps://rdm.uva.nl/en/looking-after/metadata/metadata.html?cb\n\n\n\n“Failing to address structural inequalities directly means that the advantages of those who are already privileged will grow, especially given that they have the most influence over how open science is implemented.”\nhttps://doi.org/10.1038/d41586-022-00724-0\n\n\n\n“she landed on an internet forum where a bunch of scientists were all looking for the same thing: access to academic journal articles that were behind paywalls. That’s the moment the very simple, but enormously powerful, website called Sci-Hub was born.”\nhttps://radiolab.org/podcast/library-alexandra\n\n\n\n“Scientists Call out Publisher’s Ties to Fossil Fuel Industry”\nhttps://blog.ucsusa.org/kristy-dahl/5-anti-climate-practices-elsevier-must-cease-scientists-call-out-publishers-ties-to-fossil-fuel-industry/\n\n\n\n“Shifting from a local to a global viewpoint ought to mean multiplying viewpoints, registering a greater number of varieties, taking into account a larger number of beings, cultures, phenomena, organisms, and people.”\nhttps://youtu.be/EqzSVFmaH94?si=1G3sv1kcrPdHPLMQ\n\n\n\n“much more than a formal requirement by funders or research institutions: they can be reflection tools to help researchers manage and plan their activities around data.”\nhttps://open-science.cwts.nl/introduction/open-data-software-and-infrastructures/data-management-plans\n\n\n\n“we leverage the strengths of diverse research teams, recognising that we cannot solve the significant challenges of our time through isolated endeavours”\nhttps://doi.org/10.36850/mr8\n\n\n\n“a system for haphazardly stitching together sequences of linguistic forms it has observed in its vast training data, according to probabilistic information about how they combine, but without any reference to meaning”\nhttps://doi.org/10.1145/3442188.3445922\n\n\n\n“DCCs are still relatively unknown among researchers within universities and research institutions, even though many of them receive requests for support in the area of data, software and computing.”\nhttps://www.nwo.nl/en/news/digital-competence-centers-knowledge-institutions-forging-ahead\n\n\n\n“The Future is Open!”\nhttps://doi.org/10.5281/zenodo.7716153\n\n\n\n“the system by which faculty, administrators, the board, and sometimes–but rarely–students work together to accomplish the academic mission of the institution.”\nhttps://manifold.umn.edu/projects/opening-ceremony\n\n\n\n“Does science need heroes or does it need to reform? Idolizing heroes can worsen bias, inequality, and competition in science. Yet, it does require good leadership to ignite structural change.”\nhttps://www.leidenmadtrics.nl/articles/does-science-need-heroes\n\n\n\n“the capacity to systematically increase the horizons of one’s current knowledge, in relation to some task, goal or aspiration”\nhttps://doi.org/10.1080/14767720600750696\n\n\n\n“Libraries as Open Innovators and Leaders”\nhttps://doi.org/10.5281/zenodo.3909327\n\n\n\n“a professional who combines expertise in software development and methodology with deep knowledge of one or more research fields”\nhttps://doi.org/10.5281/zenodo.7994286\n\n\n\n“Transformative agreements are also known as read-and-publish, publish-and-read, and offsetting agreements. It’s a contract where an institution pays for (1) a subscription to a publisher’s bundle of journals and (2) for their author’s articles to be made open access in some of those journals.”\nhttp://dx.doi.org/10.17613/xmj2-zd67\n\n\n\n“Research outputs are a form of testimony with researchers serving as expert testifiers. Research outputs align with philosophical understandings of testimony, as research represents an everyday, informal communicative act.”\nhttps://doi.org/10.5860/crl.84.4.513\n\n\n\n“a practice of cultivating and caring for the relationships that exist around the production of shared resources”\nhttp://dx.doi.org/10.17613/M6901ZF54\n\n\n\n“How a worm showed us the way to open science”\nhttps://youtu.be/CTwcYQ9WHOA?si=G0zCjnObeCK9eiwk\n\n\n\n“Recent decades have witnessed exponential growth in the volume of new scientific and technological knowledge, thereby creating conditions that should be ripe for major advances. Yet contrary to this view, studies suggest that progress is slowing in several major fields.”\nhttps://doi.org/10.1038/s41586-022-05543-x\n\n\n\n“We need to take information, wherever it is stored, make our copies and share them with the world…But sharing isn’t immoral — it’s a moral imperative. Only those blinded by greed would refuse to let a friend make a copy.”\nhttps://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt\n\n\n\n“Undoing Gender in Academia: Personal Reflections on Equal Opportunity Schemes” by Susan Täuber\nhttps://doi.org/10.1111/joms.12516\n\n\n\n“modules of research outputs are communicated along the way and are directly linked to each other to form a network of outputs that can facilitate research evaluation”\nhttps://doi.org/10.3390/publications6020021\n\n\n\n“the idea that scale can be nurtured through intentional collaborations between community-driven pro­jects that promote a bibliodiverse ecosystem while providing resilience through resource sharing and other kinds of collaboration”\nhttps://doi.org/10.16997/wpcc.918\n\n\n\n“academia should embrace failure: It is a community built on the twin pillars of education and research using the scientific method, with failure playing a vital role in both”\nhttps://journal.trialanderror.org/pub/failfast/release/4\n\n\n\n“reform foregrounds values that never were strangers to science such as honesty, transparency and accountability, yet seeks to embed them into changed or improved scientific processes and instruments”\nhttps://doi.org/10.1177/02704676221126388\n\n\n\n“Developing software in the open enhances opportunities to improve transparency, security, and innovation, and even establish a competitive advantage.”\nhttps://commonplace.knowledgefutures.org/pub/ktd793z4/release/1?readingCollection=54d28214\n\n\n\n“The power that technology companies hold could damage the autonomy of science.”\nhttps://youtu.be/9W9eN0zOJxk?si=do34xEyJXJ1wLPJZ\n\n\n\n“Research and Knowledge Organisations are impactful primarily through their capacity to bring people together. Therefore, Community is crucial to the generative function and success of Research and Knowledge Organisations.”\nhttps://doi.org/10.53962/k06w-2ket\n\n\n\n“We need alternative platforms that serve society instead of listed companies.”\nhttps://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-geesteswetenschappen/news/2022/10/we-must-reclaim-the-internet-before-it-is-too-late.html\n\n\n\n“Dual-use research of concern (DURC) describes research that is intended to provide a clear benefit, but which could easily be misapplied to do harm.”\nhttps://www.who.int/news-room/questions-and-answers/item/what-is-dual-use-research-of-concern\n\n\n\n“We need to enact data privacy laws that require data companies to be more transparent about how they are collecting and using our data, and more accountable for it.”\nhttps://www.wired.com/story/big-information-relx-privacy-surveillance-data/\n\n\n\n“(1) the undesirable transfer of knowledge and technology that may pose a threat to national security, (2) covert influence and interference by or from other states, and (3) ethical and integrity issues”\nhttps://www.knaw.nl/en/news/royal-netherlands-academy-arts-and-sciences-knaw-warns-against-proposed-knowledge-security-act\n\n\n\n“even though the creative act requires considerable effort, in the end you will be contributing to the vast network of love that supports human existence”\nhttps://www.theredhandfiles.com/chatgpt-making-things-faster-and-easier/"
   },
   {
     "objectID": "cards.html#inclusivity",
     "href": "cards.html#inclusivity",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "Science is like building a house. This is not something that you can do alone.\nhttps://youtu.be/tB_HeqnonNM?si=DyKlzBw1ONl1HAlf"
   },
   {
     "objectID": "cards.html#fair",
     "href": "cards.html#fair",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "Findable, Accessible, Interoperable, and Reusable\nhttps://www.go-fair.org/fair-principles/"
   },
   {
     "objectID": "cards.html#transparency",
     "href": "cards.html#transparency",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Transparent research practices and processes also serve to demonstrate more rigorous methodologies or experimental protocols and to strengthen public perceptions of research quality, integrity and trust in the results, claims, conclusions and assertions derived from research activities.”\nhttps://doi.org/10.18352/lq.10113"
   },
   {
     "objectID": "cards.html#cat-memes",
     "href": "cards.html#cat-memes",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "Publish or Purrrish\nhttps://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html"
   },
   {
     "objectID": "cards.html#capitalism",
     "href": "cards.html#capitalism",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“the appropriation of traditional knowledge, privatization of the intellectual commons, commodification of teaching materials, scholarship, scientific research, and scientific publications”\nhttps://www.tandfonline.com/doi/full/10.1080/19460171.2017.1403342"
   },
   {
     "objectID": "cards.html#judicious-connections",
     "href": "cards.html#judicious-connections",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“a process-oriented epistemology of science that recognizes the situated, embodied and goal-directed nature of communication and collaboration among researchers”\nhttps://doi.org/10.1017/9781009416368"
   },
   {
     "objectID": "cards.html#commercial-publishing",
     "href": "cards.html#commercial-publishing",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Is the staggeringly profitable business of scientific publishing bad for science?”\nhttps://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science"
   },
   {
     "objectID": "cards.html#digital-sovereignty",
     "href": "cards.html#digital-sovereignty",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“the ability to have control over your own digital destiny: the data, hardware, and software that you rely on and create - is paramount for universities and other academic institutions as a prerequisite for equitable and open research and teaching”\nhttps://doi.org/10.5281/zenodo.8328514"
   },
   {
     "objectID": "cards.html#beyoncé",
     "href": "cards.html#beyoncé",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Okay, ladies, now let’s get in-formation.”\nhttps://youtu.be/WDZJPJV__bQ?si=RLGOWMTUfp5e3Os5"
   },
   {
     "objectID": "cards.html#preprint",
     "href": "cards.html#preprint",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Sharing preprints is a way to receive feedback and attract attention to your research at an early stage, which positively benefits the quality and impact of your research.”\nhttps://doi.org/10.5281/zenodo.5600535"
   },
   {
     "objectID": "cards.html#precarity",
     "href": "cards.html#precarity",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Open Science is primarily a labour issue, not an epistemological one.”\nhttps://www.samuelmoore.org/2022/06/18/why-open-science-is-primarily-a-labour-issue/"
   },
   {
     "objectID": "cards.html#free-license",
     "href": "cards.html#free-license",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“When you make a creative work (which includes code), the work is under exclusive copyright by default. Unless you include a license that specifies otherwise, nobody else can copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.”\nhttps://choosealicense.com/"
   },
   {
     "objectID": "cards.html#epistemic-justice",
     "href": "cards.html#epistemic-justice",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Open and Responsible Science that seeks justice in access to knowledge puts equity between forms of knowledges and ways of knowing at the very centre of knowledge acquisition.”\nhttps://youtu.be/mAurbQq8WsU?si=VdPZxliFPFij2Dft"
   },
   {
     "objectID": "cards.html#democracy",
     "href": "cards.html#democracy",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Knowledge that is created by public funding should be available to everyone and go beyond the walls of the academic system.”\nhttps://open-science.cwts.nl/introduction/introduction-to-os-five-schools-of-open-science/democratic-school"
   },
   {
     "objectID": "cards.html#invisible-labour",
     "href": "cards.html#invisible-labour",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Open research practices represent a novel type of academic labour with high potential to be mismeasured or made invisible by workload models, raising expectations to even more unrealistic levels.”\nhttps://journal.trialanderror.org/pub/the-invisible-workload/release/1"
   },
   {
     "objectID": "cards.html#retraction-watch",
     "href": "cards.html#retraction-watch",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "A website and blog that monitors and reports on retractions of scientific research articles, founded by Ivan Oransky and Adam Marcus\nhttps://retractionwatch.com/"
   },
   {
     "objectID": "cards.html#storytelling",
     "href": "cards.html#storytelling",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Research in neuroscience has found that oral storytelling triggers different cognitive processes than facts, thus reducing the incidence of negative thoughts and feelings that are often generated when presented with new and challenging information.”\nhttps://blogs.lse.ac.uk/impactofsocialsciences/2023/01/24/facts-dont-change-minds-social-networks-group-dialogue-and-stories-do/"
   },
   {
     "objectID": "cards.html#university-rankings",
     "href": "cards.html#university-rankings",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Rankings put too much stress on scoring and competition… it is almost impossible to capture the quality of an entire university…Also, the makers of the rankings use data and methods that are highly questionable.”\nhttps://www.uu.nl/en/news/why-uu-is-missing-in-the-the-ranking"
   },
   {
     "objectID": "cards.html#plan-s",
     "href": "cards.html#plan-s",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "a consortium of research agencies and funders from 20 countries who state that “research funded by public or private grants must be published in open access journals or platforms”\nhttps://open-science.cwts.nl/introduction/open-scholarly-communication/a-brief-overview-of-plan-s"
   },
   {
     "objectID": "cards.html#open-washing",
     "href": "cards.html#open-washing",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“data publishers that are claiming their data is open, even when it’s not – but rather just available under limiting terms”\nhttps://blog.okfn.org/2014/03/10/open-washing-the-difference-between-opening-your-data-and-simply-making-them-available/"
   },
   {
     "objectID": "cards.html#spaghetti-code",
     "href": "cards.html#spaghetti-code",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“research is increasingly reliant on technology, so it’s important that researchers have access to the support and education they need to develop and use high-quality code”\nhttps://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0"
   },
   {
     "objectID": "cards.html#pirate-care",
     "href": "cards.html#pirate-care",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“increasingly present forms of activism at the intersection of ‘care’ and ‘piracy’, which in new and interesting ways are trying to intervene in one of the most important challenges of our time, that is, the ‘crisis of care’ in all its multiple and interconnected dimensions.”\nhttps://syllabus.pirate.care/"
   },
   {
     "objectID": "cards.html#pids",
     "href": "cards.html#pids",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“A persistent identifier is a long-lasting reference to a digital resource.”\nhttps://support.orcid.org/hc/en-us/articles/360006971013-What-are-persistent-identifiers-PIDs-"
   },
   {
     "objectID": "cards.html#apcs",
     "href": "cards.html#apcs",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Article Processing Charges and the new enclosure of research”\nhttps://blogs.lse.ac.uk/impactofsocialsciences/2022/08/11/article-processing-charges-apcs-and-the-new-enclosure-of-research/"
   },
   {
     "objectID": "cards.html#surveillance-publishing",
     "href": "cards.html#surveillance-publishing",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“our behavior—once alienated from us and abstracted into predictive metrics—will double back onto our work lives. Existing biases, like male academics’ propensity for self-citation, will receive a fresh coat of algorithmic legitimacy.”\nhttps://elephantinthelab.org/surveillance-publishing/"
   },
   {
     "objectID": "cards.html#metadata",
     "href": "cards.html#metadata",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“data about data… to make data findable [and] to make data citable”\nhttps://rdm.uva.nl/en/looking-after/metadata/metadata.html?cb"
   },
   {
     "objectID": "cards.html#privilege",
     "href": "cards.html#privilege",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Failing to address structural inequalities directly means that the advantages of those who are already privileged will grow, especially given that they have the most influence over how open science is implemented.”\nhttps://doi.org/10.1038/d41586-022-00724-0"
   },
   {
     "objectID": "cards.html#alexandra-elbakyan",
     "href": "cards.html#alexandra-elbakyan",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“she landed on an internet forum where a bunch of scientists were all looking for the same thing: access to academic journal articles that were behind paywalls. That’s the moment the very simple, but enormously powerful, website called Sci-Hub was born.”\nhttps://radiolab.org/podcast/library-alexandra"
   },
   {
     "objectID": "cards.html#climate-crisis",
     "href": "cards.html#climate-crisis",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Scientists Call out Publisher’s Ties to Fossil Fuel Industry”\nhttps://blog.ucsusa.org/kristy-dahl/5-anti-climate-practices-elsevier-must-cease-scientists-call-out-publishers-ties-to-fossil-fuel-industry/"
   },
   {
     "objectID": "cards.html#globalisation",
     "href": "cards.html#globalisation",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Shifting from a local to a global viewpoint ought to mean multiplying viewpoints, registering a greater number of varieties, taking into account a larger number of beings, cultures, phenomena, organisms, and people.”\nhttps://youtu.be/EqzSVFmaH94?si=1G3sv1kcrPdHPLMQ"
   },
   {
     "objectID": "cards.html#dmps",
     "href": "cards.html#dmps",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“much more than a formal requirement by funders or research institutions: they can be reflection tools to help researchers manage and plan their activities around data.”\nhttps://open-science.cwts.nl/introduction/open-data-software-and-infrastructures/data-management-plans"
   },
   {
     "objectID": "cards.html#team-science",
     "href": "cards.html#team-science",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“we leverage the strengths of diverse research teams, recognising that we cannot solve the significant challenges of our time through isolated endeavours”\nhttps://doi.org/10.36850/mr8"
   },
   {
     "objectID": "cards.html#stochastic-parrots",
     "href": "cards.html#stochastic-parrots",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“a system for haphazardly stitching together sequences of linguistic forms it has observed in its vast training data, according to probabilistic information about how they combine, but without any reference to meaning”\nhttps://doi.org/10.1145/3442188.3445922"
   },
   {
     "objectID": "cards.html#dcc",
     "href": "cards.html#dcc",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“DCCs are still relatively unknown among researchers within universities and research institutions, even though many of them receive requests for support in the area of data, software and computing.”\nhttps://www.nwo.nl/en/news/digital-competence-centers-knowledge-institutions-forging-ahead"
   },
   {
     "objectID": "cards.html#early-career-researchers",
     "href": "cards.html#early-career-researchers",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“The Future is Open!”\nhttps://doi.org/10.5281/zenodo.7716153"
   },
   {
     "objectID": "cards.html#university-governance",
     "href": "cards.html#university-governance",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“the system by which faculty, administrators, the board, and sometimes–but rarely–students work together to accomplish the academic mission of the institution.”\nhttps://manifold.umn.edu/projects/opening-ceremony"
   },
   {
     "objectID": "cards.html#heroes",
     "href": "cards.html#heroes",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Does science need heroes or does it need to reform? Idolizing heroes can worsen bias, inequality, and competition in science. Yet, it does require good leadership to ignite structural change.”\nhttps://www.leidenmadtrics.nl/articles/does-science-need-heroes"
   },
   {
     "objectID": "cards.html#right-to-research",
     "href": "cards.html#right-to-research",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“the capacity to systematically increase the horizons of one’s current knowledge, in relation to some task, goal or aspiration”\nhttps://doi.org/10.1080/14767720600750696"
   },
   {
     "objectID": "cards.html#the-library",
     "href": "cards.html#the-library",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Libraries as Open Innovators and Leaders”\nhttps://doi.org/10.5281/zenodo.3909327"
   },
   {
     "objectID": "cards.html#rse",
     "href": "cards.html#rse",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“a professional who combines expertise in software development and methodology with deep knowledge of one or more research fields”\nhttps://doi.org/10.5281/zenodo.7994286"
   },
   {
     "objectID": "cards.html#transformative-agreements",
     "href": "cards.html#transformative-agreements",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Transformative agreements are also known as read-and-publish, publish-and-read, and offsetting agreements. It’s a contract where an institution pays for (1) a subscription to a publisher’s bundle of journals and (2) for their author’s articles to be made open access in some of those journals.”\nhttp://dx.doi.org/10.17613/xmj2-zd67"
   },
   {
     "objectID": "cards.html#testimony",
     "href": "cards.html#testimony",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Research outputs are a form of testimony with researchers serving as expert testifiers. Research outputs align with philosophical understandings of testimony, as research represents an everyday, informal communicative act.”\nhttps://doi.org/10.5860/crl.84.4.513"
   },
   {
     "objectID": "cards.html#the-commons",
     "href": "cards.html#the-commons",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“a practice of cultivating and caring for the relationships that exist around the production of shared resources”\nhttp://dx.doi.org/10.17613/M6901ZF54"
   },
   {
     "objectID": "cards.html#worms",
     "href": "cards.html#worms",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“How a worm showed us the way to open science”\nhttps://youtu.be/CTwcYQ9WHOA?si=G0zCjnObeCK9eiwk"
   },
   {
     "objectID": "cards.html#disruption",
     "href": "cards.html#disruption",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Recent decades have witnessed exponential growth in the volume of new scientific and technological knowledge, thereby creating conditions that should be ripe for major advances. Yet contrary to this view, studies suggest that progress is slowing in several major fields.”\nhttps://doi.org/10.1038/s41586-022-05543-x"
   },
   {
     "objectID": "cards.html#aaron-swartz",
     "href": "cards.html#aaron-swartz",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“We need to take information, wherever it is stored, make our copies and share them with the world…But sharing isn’t immoral — it’s a moral imperative. Only those blinded by greed would refuse to let a friend make a copy.”\nhttps://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt"
   },
   {
     "objectID": "cards.html#gender",
     "href": "cards.html#gender",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Undoing Gender in Academia: Personal Reflections on Equal Opportunity Schemes” by Susan Täuber\nhttps://doi.org/10.1111/joms.12516"
   },
   {
     "objectID": "cards.html#modular-publishing",
     "href": "cards.html#modular-publishing",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“modules of research outputs are communicated along the way and are directly linked to each other to form a network of outputs that can facilitate research evaluation”\nhttps://doi.org/10.3390/publications6020021"
   },
   {
     "objectID": "cards.html#scaling-small",
     "href": "cards.html#scaling-small",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“the idea that scale can be nurtured through intentional collaborations between community-driven pro­jects that promote a bibliodiverse ecosystem while providing resilience through resource sharing and other kinds of collaboration”\nhttps://doi.org/10.16997/wpcc.918"
   },
   {
     "objectID": "cards.html#failure",
     "href": "cards.html#failure",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“academia should embrace failure: It is a community built on the twin pillars of education and research using the scientific method, with failure playing a vital role in both”\nhttps://journal.trialanderror.org/pub/failfast/release/4"
   },
   {
     "objectID": "cards.html#scientific-reform",
     "href": "cards.html#scientific-reform",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“reform foregrounds values that never were strangers to science such as honesty, transparency and accountability, yet seeks to embed them into changed or improved scientific processes and instruments”\nhttps://doi.org/10.1177/02704676221126388"
   },
   {
     "objectID": "cards.html#foss",
     "href": "cards.html#foss",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Developing software in the open enhances opportunities to improve transparency, security, and innovation, and even establish a competitive advantage.”\nhttps://commonplace.knowledgefutures.org/pub/ktd793z4/release/1?readingCollection=54d28214"
   },
   {
     "objectID": "cards.html#independence",
     "href": "cards.html#independence",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“The power that technology companies hold could damage the autonomy of science.”\nhttps://youtu.be/9W9eN0zOJxk?si=do34xEyJXJ1wLPJZ"
   },
   {
     "objectID": "cards.html#community",
     "href": "cards.html#community",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Research and Knowledge Organisations are impactful primarily through their capacity to bring people together. Therefore, Community is crucial to the generative function and success of Research and Knowledge Organisations.”\nhttps://doi.org/10.53962/k06w-2ket"
   },
   {
     "objectID": "cards.html#reclaiming-internet",
     "href": "cards.html#reclaiming-internet",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“We need alternative platforms that serve society instead of listed companies.”\nhttps://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-geesteswetenschappen/news/2022/10/we-must-reclaim-the-internet-before-it-is-too-late.html"
   },
   {
     "objectID": "cards.html#dual-use",
     "href": "cards.html#dual-use",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“Dual-use research of concern (DURC) describes research that is intended to provide a clear benefit, but which could easily be misapplied to do harm.”\nhttps://www.who.int/news-room/questions-and-answers/item/what-is-dual-use-research-of-concern"
   },
   {
     "objectID": "cards.html#data-privacy",
     "href": "cards.html#data-privacy",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“We need to enact data privacy laws that require data companies to be more transparent about how they are collecting and using our data, and more accountable for it.”\nhttps://www.wired.com/story/big-information-relx-privacy-surveillance-data/"
   },
   {
     "objectID": "cards.html#knowledge-security",
     "href": "cards.html#knowledge-security",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“(1) the undesirable transfer of knowledge and technology that may pose a threat to national security, (2) covert influence and interference by or from other states, and (3) ethical and integrity issues”\nhttps://www.knaw.nl/en/news/royal-netherlands-academy-arts-and-sciences-knaw-warns-against-proposed-knowledge-security-act"
   },
   {
     "objectID": "cards.html#creativity",
     "href": "cards.html#creativity",
-    "title": "White Cards",
+    "title": "Red Cards",
     "section": "",
     "text": "“even though the creative act requires considerable effort, in the end you will be contributing to the vast network of love that supports human existence”\nhttps://www.theredhandfiles.com/chatgpt-making-things-faster-and-easier/"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "rules.html",
+    "href": "rules.html",
+    "title": "Rules of the Game",
     "section": "",
-    "text": "About this site"
+    "text": "🧍3-7 players ⏰ 5 minutes - 24 hours 🏋️ difficulty level: researcher friendly\nGame Mechanics: The game is played with two types of cards: red and white. Red cards feature a variety of Open Science concepts, from abstract to highly practical, each accompanied by a brief description and a hyperlink for further exploration. White cards, meanwhile, embody the core principles of Open Science. The challenge lies in finding the most fitting match between a white principle card and a red concept card. The role of the Open Science Cupid is to determine which pairing shines the brightest! To begin, shuffle the red cards and deal five to each player, placing the remainder in a face-down stack. Then, shuffle the white cards to create another stack. Choose the first Open Science Cupid, who will unveil the first white card from the pile. Players then each select one of their red cards to play. The Cupid has the discretion to set the criteria for the most harmonious match. The winner of the round claims the white card, earning a point. The Cupid’s role then passes to the next player on the left. Continue the game until all white cards have been awarded."
+  },
+  {
+    "objectID": "rules.html#variation-1-speed-dating",
+    "href": "rules.html#variation-1-speed-dating",
+    "title": "Rules of the Game",
+    "section": "Variation 1: Speed Dating",
+    "text": "Variation 1: Speed Dating\nIn this fast-paced twist, after the Cupid presents the white card for the round, players submit their red cards anonymously and face-down. The Cupid then chooses their favorite match and shares the rationale behind their decision with the group."
+  },
+  {
+    "objectID": "rules.html#variation-2-open-declaration",
+    "href": "rules.html#variation-2-open-declaration",
+    "title": "Rules of the Game",
+    "section": "Variation 2: Open Declaration",
+    "text": "Variation 2: Open Declaration\nFor a more open challenge, after the Cupid reveals the white card, players place their red cards face up and articulate their reasons for the pairing. The Cupid is then tasked with selecting the winning match based on the strength of the arguments presented"
   }
 ]

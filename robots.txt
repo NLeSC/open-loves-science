@@ -1,1 +1,1 @@
-Sitemap: https://bbartholdy.github.io/open-love-science/sitemap.xml
+Sitemap: https://NLeSC.github.io/open-loves-science/sitemap.xml
