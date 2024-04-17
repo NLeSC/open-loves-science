@@ -1,7 +1,7 @@
 ## Open ❤ Science
 
 Cards and code to create cards for Open❤️Science, an educational game
-based on Apples to Apples.
+similar to Apples to Apples.
 This game can be played in person or online. If you are interested
 in the printed game, please reach out to us ([rdm@vu.nl](mailto:rdm@vu.nl))
 
