@@ -24,7 +24,9 @@ for(i in 1:nrow(links_tbl)){
   if(status[i] == 200){
     cli::cli_alert_success(status[i])
   } else {
+    url <- links_tbl$url[i]
     cli::cli_alert_warning(status[i])
+    cli::cli_text("Check link: {.url {url}}")
   }
 }
 links_tbl <- links_tbl |>
