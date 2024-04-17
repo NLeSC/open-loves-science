@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "rules.html",
+    "href": "rules.html",
+    "title": "Rules of the Game",
+    "section": "",
+    "text": "🧍3-7 players ⏰ 5 minutes - 24 hours 🏋️ difficulty level: researcher friendly\nGame Mechanics: The game is played with two types of cards: red and white. Red cards feature a variety of Open Science concepts, from abstract to highly practical, each accompanied by a brief description and a hyperlink for further exploration. White cards, meanwhile, embody the core principles of Open Science. The challenge lies in finding the most fitting match between a white principle card and a red concept card. The role of the Open Science Cupid is to determine which pairing shines the brightest! To begin, shuffle the red cards and deal five to each player, placing the remainder in a face-down stack. Then, shuffle the white cards to create another stack. Choose the first Open Science Cupid, who will unveil the first white card from the pile. Players then each select one of their red cards to play. The Cupid has the discretion to set the criteria for the most harmonious match. The winner of the round claims the white card, earning a point. The Cupid’s role then passes to the next player on the left. Continue the game until all white cards have been awarded."
+  },
+  {
+    "objectID": "rules.html#variation-1-speed-dating",
+    "href": "rules.html#variation-1-speed-dating",
+    "title": "Rules of the Game",
+    "section": "Variation 1: Speed Dating",
+    "text": "Variation 1: Speed Dating\nIn this fast-paced twist, after the Cupid presents the white card for the round, players submit their red cards anonymously and face-down. The Cupid then chooses their favorite match and shares the rationale behind their decision with the group."
+  },
+  {
+    "objectID": "rules.html#variation-2-open-declaration",
+    "href": "rules.html#variation-2-open-declaration",
+    "title": "Rules of the Game",
+    "section": "Variation 2: Open Declaration",
+    "text": "Variation 2: Open Declaration\nFor a more open challenge, after the Cupid reveals the white card, players place their red cards face up and articulate their reasons for the pairing. The Cupid is then tasked with selecting the winning match based on the strength of the arguments presented"
+  },
+  {
     "objectID": "cards.html",
     "href": "cards.html",
     "title": "Red Cards",
@@ -424,14 +445,14 @@
     "href": "index.html",
     "title": "O❤️S",
     "section": "",
-    "text": "Cards and code to create cards for Open❤️Science, an educational game based on Apples to Apples. This game can be played in person or online. If you are interested in the printed game, please reach out to us (rdm@vu.nl)"
+    "text": "Cards and code to create cards for Open❤️Science, an educational game similar to Apples to Apples. This game can be played in person or online. If you are interested in the printed game, please reach out to us (rdm@vu.nl)"
   },
   {
     "objectID": "index.html#open-science",
     "href": "index.html#open-science",
     "title": "O❤️S",
     "section": "",
-    "text": "Cards and code to create cards for Open❤️Science, an educational game based on Apples to Apples. This game can be played in person or online. If you are interested in the printed game, please reach out to us (rdm@vu.nl)"
+    "text": "Cards and code to create cards for Open❤️Science, an educational game similar to Apples to Apples. This game can be played in person or online. If you are interested in the printed game, please reach out to us (rdm@vu.nl)"
   },
   {
     "objectID": "index.html#goal-of-the-game",
@@ -446,26 +467,5 @@
     "title": "O❤️S",
     "section": "Acknowledgements",
     "text": "Acknowledgements\nThis game was created by the GHOST Collective, Games of Horror for Open Science Training. GHOST includes:\n\nBjørn Bartholdy, TU Delft\nDafne Jansen, Universiteit Utrecht\nDan Rudmann, Leiden University\nElisa Rodenburg, Vrije Universiteit Amsterdam\nEva Lekkerkerker, University of Amsterdam\nLena Karvovskaya, Vrije Universiteit Amsterdam\nLieke de Boer, Netherlands eScience Center\nMeron Vermaas, Vrije Universiteit Amsterdam\nStefan Kirsch, Tilburg University\nStephanie van de Sandt, Vrije Universiteit Amsterdam\nTycho Hofstra, Vrije Universiteit Amsterdam\n\nPrevious GHOST collective games include the Software Horror Escape Room and Data Horror Escape Room"
-  },
-  {
-    "objectID": "rules.html",
-    "href": "rules.html",
-    "title": "Rules of the Game",
-    "section": "",
-    "text": "🧍3-7 players ⏰ 5 minutes - 24 hours 🏋️ difficulty level: researcher friendly\nGame Mechanics: The game is played with two types of cards: red and white. Red cards feature a variety of Open Science concepts, from abstract to highly practical, each accompanied by a brief description and a hyperlink for further exploration. White cards, meanwhile, embody the core principles of Open Science. The challenge lies in finding the most fitting match between a white principle card and a red concept card. The role of the Open Science Cupid is to determine which pairing shines the brightest! To begin, shuffle the red cards and deal five to each player, placing the remainder in a face-down stack. Then, shuffle the white cards to create another stack. Choose the first Open Science Cupid, who will unveil the first white card from the pile. Players then each select one of their red cards to play. The Cupid has the discretion to set the criteria for the most harmonious match. The winner of the round claims the white card, earning a point. The Cupid’s role then passes to the next player on the left. Continue the game until all white cards have been awarded."
-  },
-  {
-    "objectID": "rules.html#variation-1-speed-dating",
-    "href": "rules.html#variation-1-speed-dating",
-    "title": "Rules of the Game",
-    "section": "Variation 1: Speed Dating",
-    "text": "Variation 1: Speed Dating\nIn this fast-paced twist, after the Cupid presents the white card for the round, players submit their red cards anonymously and face-down. The Cupid then chooses their favorite match and shares the rationale behind their decision with the group."
-  },
-  {
-    "objectID": "rules.html#variation-2-open-declaration",
-    "href": "rules.html#variation-2-open-declaration",
-    "title": "Rules of the Game",
-    "section": "Variation 2: Open Declaration",
-    "text": "Variation 2: Open Declaration\nFor a more open challenge, after the Cupid reveals the white card, players place their red cards face up and articulate their reasons for the pairing. The Cupid is then tasked with selecting the winning match based on the strength of the arguments presented"
   }
 ]

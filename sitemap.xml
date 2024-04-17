@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://NLeSC.github.io/open-loves-science/rules.html</loc>
+    <lastmod>2024-04-17T12:38:51.161Z</lastmod>
+  </url>
+  <url>
     <loc>https://NLeSC.github.io/open-loves-science/cards.html</loc>
-    <lastmod>2024-02-14T08:47:51.571Z</lastmod>
+    <lastmod>2024-04-17T12:38:51.149Z</lastmod>
   </url>
   <url>
     <loc>https://NLeSC.github.io/open-loves-science/index.html</loc>
-    <lastmod>2024-02-14T08:47:51.579Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NLeSC.github.io/open-loves-science/rules.html</loc>
-    <lastmod>2024-02-14T08:47:51.579Z</lastmod>
+    <lastmod>2024-04-17T12:38:51.161Z</lastmod>
   </url>
 </urlset>
