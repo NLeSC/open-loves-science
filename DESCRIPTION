@@ -13,5 +13,6 @@ Imports:
     dplyr,
     gh,
     glue,
+    httr,
     stringr,
     tibble
