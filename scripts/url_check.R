@@ -48,7 +48,7 @@ issue_body <- glue::glue_data(
 issue_body_insert <- paste0(c("The following links need to be checked manually:\n", issue_body), collapse = "\n")
 
 gh(
-  "/repos/nlesc/open-loves-science/issues",
+  "/repos/bbartholdy/open-loves-science/issues",
   title = issue_title,
   body = issue_body_insert,
   .token = gh_token,
@@ -65,7 +65,7 @@ if(nrow(rotten_links) == 0) {
     "
   )
   gh(
-    "/repos/nlesc/open-loves-science/issues",
+    "/repos/bbartholdy/open-loves-science/issues",
     title = rotten_url_title,
     body = rotten_url_body,
     .token = gh_token,
