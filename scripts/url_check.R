@@ -35,20 +35,39 @@ links_tbl <- links_tbl |>
 rotten_links <- links_tbl |>
   filter(status_code != 200 & status_code != 403) # 403 is related to sites preventing scraping?
 
+unauthorised_links <- links_tbl |>
+  filter(status_code == 403)
+
+gh_token <- Sys.getenv("GITHUB_PAT")
+
+issue_title <- "Check card links"
+issue_body <- glue::glue_data(
+  unauthorised_links,
+  "{card}: {url}\n"
+)
+issue_body_insert <- paste0(c("The following links need to be checked manually:\n", issue_body), collapse = "\n")
+
+gh(
+  "/repos/nlesc/open-loves-science/issues",
+  title = issue_title,
+  body = issue_body_insert,
+  .token = gh_token,
+  .method = "POST"
+)
+
 if(nrow(rotten_links) == 0) {
   cli::cli_alert_success("All links are working! Just sit back, relax, and enjoy the tens of seconds you have gained from not having to take any action.")
 } else {
-  gh_token <- Sys.getenv("GITHUB_PAT")
-  title <- "Possible rotten link(s) detected"
-  body <- glue::glue_data(rotten_links,
+  rotten_url_title <- "Possible rotten link(s) detected"
+  rotten_url_body <- glue::glue_data(rotten_links,
     "
     {card}: {url}
     "
   )
   gh(
     "/repos/nlesc/open-loves-science/issues",
-    title = title,
-    body = body,
+    title = rotten_url_title,
+    body = rotten_url_body,
     .token = gh_token,
     .method = "POST"
   )
