@@ -15,4 +15,5 @@ Imports:
     glue,
     httr,
     stringr,
-    tibble
+    tibble,
+    yaml
