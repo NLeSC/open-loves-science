@@ -3,7 +3,7 @@ project:
 
 website:
   title: "O❤️S"
-  repo-url: "https://github.com/bbartholdy/open-love-science"
+  repo-url: "https://github.com/NLeSC/open-loves-science"
   page-footer: 
     left: "Made with ❤️ and Quarto"
   navbar:
@@ -16,7 +16,7 @@ website:
         text: "Rules"
     right: 
       - icon: github
-        href: https://github.com/ubvu/OpenTOScience
+        href: https://github.com/NLeSC/open-loves-science
         aria-label: GitHub
 
 format:

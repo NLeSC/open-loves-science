@@ -156,7 +156,7 @@ a consortium of research agencies and funders from 20 countries who state that �
 
 “data about data… to make data findable [and] to make data citable”
 
-<https://rdm.uva.nl/en/looking-after/metadata/metadata.html?cb>
+<https://www.tudelft.nl/en/library/research-data-management/r/manage/collect-and-document>
 
 ## Privilege
 
