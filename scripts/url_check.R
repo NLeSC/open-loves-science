@@ -70,10 +70,11 @@ if(nrow(rotten_links) == 0) {
     {card}: {url}
     "
   )
+  rotten_url_insert <- paste0(c("The following links could not be reached:\n", rotten_url_body), collapse = "\n")
   gh(
     "/repos/NLeSC/open-loves-science/issues",
     title = rotten_url_title,
-    body = rotten_url_body,
+    body = rotten_url_insert,
     .token = gh_token,
     .method = "POST"
   )
