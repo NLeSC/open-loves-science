@@ -19,8 +19,14 @@ cli::cli_h1("Checking links")
 for(i in 1:nrow(links_tbl)){
   cli::cli_progress_message(paste("Checking status of card", links_tbl$card[i]))
   cli::cli_h2(links_tbl$card[i])
-  #print(sprintf("Checking status of card: %s...", links_tbl$card[i]))
-  status[i] <- httr::GET(url = links_tbl$url[i])$status_code
+  status[i] <- tryCatch({
+    httr::GET(url = links_tbl$url[i])$status_code
+  },
+    error = function(e){
+      cli::cli_alert_warning(status[i])
+      return(418)
+    }
+  )
   if(status[i] == 200){
     cli::cli_alert_success(status[i])
   } else {
@@ -29,7 +35,7 @@ for(i in 1:nrow(links_tbl)){
     cli::cli_text("Check link: {.url {url}}")
   }
 }
-links_tbl <- links_tbl |>
+  links_tbl <- links_tbl |>
   mutate(status_code = status)
 
 rotten_links <- links_tbl |>
