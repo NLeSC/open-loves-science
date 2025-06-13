@@ -204,7 +204,7 @@ a consortium of research agencies and funders from 20 countries who state that �
 
 “DCCs are still relatively unknown among researchers within universities and research institutions, even though many of them receive requests for support in the area of data, software and computing.”
 
-<https://www.nwo.nl/en/news/digital-competence-centers-knowledge-institutions-forging-ahead>
+<https://www.surf.nl/en/magazine/digital-competence-centres-let-institutions-collaborate-more-intensively>
 
 ## Early Career Researchers
 
