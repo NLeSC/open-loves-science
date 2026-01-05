@@ -356,3 +356,35 @@ those blinded by greed would refuse to let a friend make a copy.”
 “even though the creative act requires considerable effort, in the end you will be contributing to the vast network of love that supports human existence”
 
 <https://www.theredhandfiles.com/chatgpt-making-things-faster-and-easier/>
+
+
+## JASP
+
+“Unlike SPSS, which can appear cluttered and overwhelming to beginners, JASP's simplicity helps students focus on learning statistical concepts without being bogged down by complex menus and options. [...] JASP is open-source and free [...] There are no complicated installation issues or licensing costs.”
+
+<https://jasp-stats.org/2025/04/12/discovering-statistics-using-jasp-a-teaching-guide/>
+
+## Papercheck
+
+“[Papercheck] leverages text search, code, and large language models to extract and supplement information from scientific documents [...] and provides automated suggestions for improvement.”
+
+<https://daniellakens.blogspot.com/2025/06/introducing-papercheck.html>
+
+## Open Science Communities
+
+“We emphasize that, despite the grassroot character of OSCs, support from universities is critical for OSCs to be viable, effective, and sustainable.”
+
+<https://academic.oup.com/spp/article/48/5/605/6313404>
+
+## PhD-Level AI
+
+“[...] for better and for worse, we are far from seeing the end of AI advancement. What's remarkable isn't just the individual breakthroughs [...]. It's the pace and breadth of change.”
+
+<https://www.oneusefulthing.org/p/what-just-happened>
+
+## Vendor lock-in
+
+“[...] we demonstrate that if 'lead' researchers are able to establish a norm of contribution to the public good, a better outcome can be achieved, and we show that the general public license (GPL) used in the provision of open source software is one such mechanism.”
+
+<https://eml.berkeley.edu/~bhhall/papers/GambardellaHall_RP06_reprint.pdf>
+
