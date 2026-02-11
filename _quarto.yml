@@ -10,8 +10,12 @@ website:
     left:
       - href: index.qmd
         text: "Home"
-      - href: cards.qmd
-        text: "Cards"
+      - text: Cards
+        menu: 
+        - href: red-cards.qmd
+          text: "Red Cards"
+        - href: white-cards.qmd
+          text: "White Cards"
       - href: rules.qmd
         text: "Rules"
     right: 
