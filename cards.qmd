@@ -388,3 +388,74 @@ those blinded by greed would refuse to let a friend make a copy.”
 
 <https://eml.berkeley.edu/~bhhall/papers/GambardellaHall_RP06_reprint.pdf>
 
+## CODECHECK
+
+“CODECHECK tackles one of the main challenges of computational research by supporting codecheckers with a workflow, guidelines and tools to evaluate computer programs underlying scientific papers.”
+
+<https://codecheck.org.uk/>
+
+## Evidence-based Policy 
+
+“Timely access to good quality and relevant research evidence, collaborations with policymakers and relationship- and skills-building with policymakers are reported to be the most important factors in influencing the use of evidence.”
+
+<https://doi.org/10.1186/1472-6963-14-2>
+
+## AI Race
+
+“Major AI companies demonstrate minimal public engagement in responsible-AI research, indicating that speed is prioritized over safety in AI development. The AI products reaching the market show limited influence from responsible-AI research findings.”
+
+<https://doi.org/10.1038/d41586-024-02985-3>
+
+## Qualitative Data
+
+“The open science movement and the research community in general can benefit from many of the practices qualitative researchers use to maintain rigor and transparency – namely, attention to providing a high level of contextual detail and reflexivity practices for mitigating bias.”
+
+<https://doi.org/10.36850/mr7>
+
+## Predatory Journals
+
+“Predatory journals and publishers are entities that prioritize self-interest at the expense of scholarship.”
+
+<https://doi.org/10.1038/d41586-019-03759-y>
+
+## Workload
+
+“[There is] a high chance that, without intervention, increased expectations to engage in open research practices may lead to unacceptable increases in demands on academics.”
+
+<https://doi.org/10.36850/mr5>
+
+## Permissive licenses
+
+“When you make a creative work (which includes code), the work is under exclusive copyright by default. Unless you include a license that specifies otherwise, nobody else can copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.”
+
+<https://choosealicense.com/no-permission/>
+
+## Software citation
+
+“Citation helps software developers be recognized for their work. Additionally, citation is an integral part of scientific accountability and reproducibility [...]. CodeMeta and the Citation File Format were specifically designed to enable citation of software and will likely meet your needs.”
+
+<https://fair-software.nl/recommendations/citation>
+
+## Nanopublications
+
+“Nanopublications are a formalized and machine-readable way of communicating the smallest possible units of publishable information.”
+
+<https://nanopub.readthedocs.io/en/latest/getting-started/what-are-nanopubs.html>
+
+## Enshittification
+
+“Enshittification follows. The scholarly system is overwhelmed by quantity, distorted by profit motives, and is stripped of its purpose of advancing knowledge.”
+
+<https://theconversation.com/the-5-stages-of-the-enshittification-of-academic-publishing-269714>
+
+## Science Done Right
+
+“Idealistically, open science is just science done right. That means that you are managing all of your work right from the start, managing your data, thinking about licences, your own rights, about connecting with others.”
+
+<https://delta.tudelft.nl/en/article/open-science-just-science-done-right>
+
+## Silly Card Games
+
+“The GHOST collective is a group of Open Science enthusiasts from universities across the Netherlands. We make Open Science games that can be used as training materials or just for fun.”
+
+<https://ghostcollective.github.io/>
