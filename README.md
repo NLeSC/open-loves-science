@@ -3,7 +3,7 @@
 Open❤️Science (Open loves Science) is an educational game where you get to connect concepts in research, open science and everyday academia.
 This repository contains the [website](nlesc.github.io/open-loves-science/), the cards as well as the code to create them. You can also find the design files to print the game yourself. 
 
-The game is licensed as [CC-BY](LICENSE), so you are free to use, change, adapt and distribute the game in any way you like, as long as you reference the [authors](CITATION.cff).
+The game is licensed as [CC-BY](LICENSE), so you are free to use, change, adapt and distribute the game in any way you like, as long as you credit us as the [authors](CITATION.cff).
 
 Depending on where you live, you can also get the printed game. If you are interested, please reach out to rdm@vu.nl.
 
@@ -31,4 +31,4 @@ The GHOST Collective has published a range of digital and physical games. You ca
 
 ## Acknowledgements
 
-This game was created by the [GHOST Collective](https://ghostcollective.github.io/), Games of Horror for Open Science Training. A full list of the amazing people who contributed to our games can be found on our [website](https://ghostcollective.github.io/).
+This game was created by the GHOST Collective (Games of Horror for Open Science Training). A full list of the amazing people who contributed to our games can be found on our [website](https://ghostcollective.github.io/).
