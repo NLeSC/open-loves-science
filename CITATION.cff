@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: >-
+  If you use this card game in your work, please cite it as:
+  GHOST collective, Games of Horror for Open Science Training.
+  For a continuously updated list of all contributors, see:
+  https://ghostcollective.github.io/
+
+title: "Open loves Science"
+version: "2nd Edition"
+date-released: 2026-03-01
+doi: "10.5281/zenodo.10609559"
+url: "https://ghostcollective.github.io/"
+repository-code: "https://github.com/NLeSC/open-loves-science"
+
+authors:
+  - name: "GHOST collective, Games of Horror for Open Science Training"
+    website: "https://ghostcollective.github.io/"
+
+keywords:
+  - open science
+  - card game
+  - training
+  - gamification
