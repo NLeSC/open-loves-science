@@ -11,6 +11,7 @@ date-released: 2026-03-01
 doi: "10.5281/zenodo.10609559"
 url: "https://ghostcollective.github.io/"
 repository-code: "https://github.com/NLeSC/open-loves-science"
+type: "Card game"
 
 authors:
   - name: "GHOST collective, Games of Horror for Open Science Training"
