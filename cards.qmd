@@ -2,13 +2,13 @@
 
 ## Inclusivity
 
-Science is like building a house. This is not something that you can do alone.
+“Look, science is like building a house. This is not something that you can do alone.”
 
 <https://youtu.be/tB_HeqnonNM?si=DyKlzBw1ONl1HAlf>
 
 ## FAIR
 
-Findable, Accessible, Interoperable, and Reusable
+“Findable, Accessible, Interoperable, and Reusable”
 
 <https://www.go-fair.org/fair-principles/>
 
@@ -20,20 +20,20 @@ Findable, Accessible, Interoperable, and Reusable
 
 ## Cat Memes
 
-Publish or Purrrish
+“Publish or Purrrish”
 
 <https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html>
 
 
 ## Capitalism
 
-“the appropriation of traditional knowledge, privatization of the intellectual commons, commodification of teaching materials, scholarship, scientific research, and scientific publications”
+“[The] appropriation of traditional knowledge, privatization of the intellectual commons, commodification of teaching materials, scholarship, scientific research, and scientific publications [...].”
 
 <https://www.tandfonline.com/doi/full/10.1080/19460171.2017.1403342>
 
 ## Judicious Connections
 
-“a process-oriented epistemology of science that recognizes the situated, embodied and goal-directed nature of communication and collaboration among researchers”
+“[A] process-oriented epistemology of science that recognizes the situated, embodied and goal-directed nature of communication and collaboration among researchers”
 
 <https://doi.org/10.1017/9781009416368>
 
@@ -45,10 +45,9 @@ Publish or Purrrish
 
 ## Digital Sovereignty
 
-“the ability to have control over your own digital destiny: the data, hardware, and software that you rely on and create - is paramount for universities and other academic institutions as a prerequisite for equitable and open research and teaching”
+“[The] ability to have control over your own digital destiny: the data, hardware, and software that you rely on and create - is paramount for universities and other academic institutions as a prerequisite for equitable and open research and teaching”
 
 <https://doi.org/10.5281/zenodo.8328514>
-
 
 ## Beyoncé
 
@@ -68,21 +67,21 @@ Publish or Purrrish
 
 <https://www.samuelmoore.org/2022/06/18/why-open-science-is-primarily-a-labour-issue/>
 
-## Free License
+## Value-driven Procurement
 
-“When you make a creative work (which includes code), the work is under exclusive copyright by default. Unless you include a license that specifies otherwise, nobody else can copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.”
+“Open-source solutions and providers sharing core academic values should be preferred. [Also], higher education institutions should be transparent in their decisions.”
 
-<https://choosealicense.com/>
+<https://www.dejongeakademie.nl/en/publications/3082247.aspx?t=In-Control-A-Manifesto-for-a-Responsible-Digital-Future-in-Higher-Education/>
 
 ## Epistemic Justice
 
-"Open and Responsible Science that seeks justice in access to knowledge puts equity between forms of knowledges and ways of knowing at the very centre of knowledge acquisition."
+Open and Responsible Science that seeks justice in access to knowledge puts equity between forms of knowledge and ways of knowing at the very centre of knowledge acquisition.
 
 <https://youtu.be/mAurbQq8WsU?si=VdPZxliFPFij2Dft>
  
 ## Democracy
 
-“Knowledge that is created by public funding should be available to everyone and go beyond the walls of the academic system.”
+“[Knowledge] that has been created by public funding should be available to everyone and [should go] beyond the walls of the academic system.”
 
 <https://open-science.cwts.nl/introduction/introduction-to-os-five-schools-of-open-science/democratic-school>
 
@@ -112,25 +111,25 @@ A website and blog that monitors and reports on retractions of scientific resear
 
 ## Plan S
 
-a consortium of research agencies and funders from 20 countries who state that “research funded by public or private grants must be published in open access journals or platforms”
+A consortium of research agencies and funders from 20 countries who state that “research funded by public or private grants must be published in open access journals or platforms”.
 
 <https://open-science.cwts.nl/introduction/open-scholarly-communication/a-brief-overview-of-plan-s>
 
 ## Open-Washing
 
-“data publishers that are claiming their data is open, even when it’s not – but rather just available under limiting terms”
+“[Data] publishers that are claiming their data is open, even when it’s not – but rather just available under limiting terms”
 
 <https://blog.okfn.org/2014/03/10/open-washing-the-difference-between-opening-your-data-and-simply-making-them-available/>
 
 ## Spaghetti Code
 
-“research is increasingly reliant on technology, so it’s important that researchers have access to the support and education they need to develop and use high-quality code”
+“[Research] is increasingly reliant on technology, so it’s important that researchers have access to the support and education they need to develop and use high-quality code.”
 
 <https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0>
 
 ## Pirate Care
 
-“increasingly present forms of activism at the intersection of ‘care’ and ‘piracy’, which in new and interesting ways are trying to intervene in one of the most important challenges of our time, that is, the ‘crisis of care’ in all its multiple and interconnected dimensions.”
+“[Increasingly] present forms of activism at the intersection of ‘care’ and ‘piracy’, which in new and interesting ways are trying to intervene in one of the most important challenges of our time, that is, the ‘crisis of care’ in all its multiple and interconnected dimensions.”
 
 <https://syllabus.pirate.care/>
 
@@ -142,19 +141,19 @@ a consortium of research agencies and funders from 20 countries who state that �
 
 ## APCs
 
-“Article Processing Charges and the new enclosure of research”
+“Article Processing Charges (APCs) and the new enclosure of research”
 
 <https://blogs.lse.ac.uk/impactofsocialsciences/2022/08/11/article-processing-charges-apcs-and-the-new-enclosure-of-research/>
 
 ## Surveillance Publishing
 
-“our behavior—once alienated from us and abstracted into predictive metrics—will double back onto our work lives. Existing biases, like male academics’ propensity for self-citation, will receive a fresh coat of algorithmic legitimacy.”
+“[Our] behavior—once alienated from us and abstracted into predictive metrics—will double back onto our work lives. Existing biases, like male academics’ propensity for self-citation, will receive a fresh coat of algorithmic legitimacy.”
 
 <https://elephantinthelab.org/surveillance-publishing/>
 
 ## Metadata
 
-“data about data… to make data findable [and] to make data citable”
+“Metadata about data provides answers to questions concerning the person creating the data, the subject of the data, the type of file(s), geographic information and other aspects.”
 
 <https://www.tudelft.nl/en/library/research-data-management/r/manage/collect-and-document>
 
@@ -166,7 +165,7 @@ a consortium of research agencies and funders from 20 countries who state that �
 
 ## Alexandra Elbakyan
 
-“she landed on an internet forum where a bunch of scientists were all looking for the same thing: access to academic journal articles that were behind paywalls. That’s the moment the very simple, but enormously powerful, website called Sci-Hub was born.”
+“[She] landed on an internet forum where a bunch of scientists were all looking for the same thing: access to academic journal articles that were behind paywalls. That’s the moment the very simple, but enormously powerful, website called Sci-Hub was born.”
 
 <https://radiolab.org/podcast/library-alexandra>
 
@@ -184,25 +183,25 @@ a consortium of research agencies and funders from 20 countries who state that �
 
 ## Data Management Plans {#dmps}
 
-“much more than a formal requirement by funders or research institutions: they can be reflection tools to help researchers manage and plan their activities around data.”
+“[Much] more than a formal requirement by funders or research institutions: they can be reflection tools to help researchers manage and plan their activities around data.”
 
 <https://open-science.cwts.nl/introduction/open-data-software-and-infrastructures/data-management-plans>
 
 ## Team Science
 
-“we leverage the strengths of diverse research teams, recognising that we cannot solve the significant challenges of our time through isolated endeavours”
+“[We] leverage the strengths of diverse research teams, recognising that we cannot solve the significant challenges of our time through isolated endeavours.”
 
 <https://doi.org/10.36850/mr8>
 
 ## Stochastic Parrots
 
-“a system for haphazardly stitching together sequences of linguistic forms it has observed in its vast training data, according to probabilistic information about how they combine, but without any reference to meaning”
+“[A] system for haphazardly stitching together sequences of linguistic forms it has observed in its vast training data, according to probabilistic information about how they combine, but without any reference to meaning.”
 
 <https://doi.org/10.1145/3442188.3445922>
 
 ## Digital Competence Centers {#dcc}
 
-“DCCs are still relatively unknown among researchers within universities and research institutions, even though many of them receive requests for support in the area of data, software and computing.”
+“Digitising research requires expertise, which is scarce. Digital Competence Centres (DCCs) gather that expertise. Moreover, they make it easier for institutions to share knowledge and develop services together. It turns out, needs in this area appear to be widely shared.”
 
 <https://www.surf.nl/en/magazine/digital-competence-centres-let-institutions-collaborate-more-intensively>
 
@@ -214,7 +213,7 @@ a consortium of research agencies and funders from 20 countries who state that �
 
 ## University Governance
 
-“the system by which faculty, administrators, the board, and sometimes–but rarely–students work together to accomplish the academic mission of the institution.”
+“[The] system by which faculty, administrators, the board, and sometimes–but rarely–students work together to accomplish the academic mission of the institution.”
 
 <https://manifold.umn.edu/projects/opening-ceremony>
 
@@ -226,7 +225,7 @@ a consortium of research agencies and funders from 20 countries who state that �
 
 ## The Right To Research {#right-to-research}
 
-“the capacity to systematically increase the horizons of one's current knowledge, in relation to some task, goal or aspiration”
+“[The] capacity to systematically increase the horizons of one's current knowledge, in relation to some task, goal or aspiration”
 
 <https://doi.org/10.1080/14767720600750696>
 
@@ -238,13 +237,13 @@ a consortium of research agencies and funders from 20 countries who state that �
 
 ## Research Software Engineer {#rse}
 
-“a professional who combines expertise in software development and methodology with deep knowledge of one or more research fields”
+“[A] professional who combines expertise in software development and methodology with deep knowledge of one or more research fields.”
 
 <https://doi.org/10.5281/zenodo.7994286>
 
 ## Transformative Agreements
 
-“Transformative agreements are also known as read-and-publish, publish-and-read, and offsetting agreements. It’s a contract where an institution pays for (1) a subscription to a publisher’s bundle of journals and (2) for their author’s articles to be made open access in some of those journals.”
+“[Transformative agreements] are also known as read-and-publish, publish-and-read, and offsetting agreements. It’s a contract where an institution pays for (1) a subscription to a publisher’s bundle of journals and (2) for their author’s articles to be made open access in some of those journals.”
 
 <http://dx.doi.org/10.17613/xmj2-zd67>
 
@@ -256,7 +255,7 @@ a consortium of research agencies and funders from 20 countries who state that �
 
 ## The Commons
 
-“a practice of cultivating and caring for the relationships that exist around the production of shared resources”
+“[A] practice of cultivating and caring for the relationships that exist around the production of shared resources.”
 
 <http://dx.doi.org/10.17613/M6901ZF54>
 
@@ -281,31 +280,31 @@ those blinded by greed would refuse to let a friend make a copy.”
 
 ## Gender
 
-“Undoing Gender in Academia: Personal Reflections on Equal Opportunity Schemes” by Susan Täuber
+“Undoing Gender in Academia: Personal Reflections on Equal Opportunity Schemes”
 
 <https://doi.org/10.1111/joms.12516>
 
 ## Modular Publishing
 
-“modules of research outputs are communicated along the way and are directly linked to each other to form a network of outputs that can facilitate research evaluation”
+“[Modules] of research outputs are communicated along the way and are directly linked to each other to form a network of outputs that can facilitate research evaluation.”
 
 <https://doi.org/10.3390/publications6020021>
 
 ## Scaling Small
 
-“the idea that scale can be nurtured through intentional collaborations between community-driven pro­jects that promote a bibliodiverse ecosystem while providing resilience through resource sharing and other kinds of collaboration”
+“[The] idea that scale can be nurtured through intentional collaborations between community-driven pro­jects that promote a bibliodiverse ecosystem while providing resilience through resource sharing and other kinds of collaboration”
 
 <https://doi.org/10.16997/wpcc.918>
 
 ## Failure
 
-“academia should embrace failure: It is a community built on the twin pillars of education and research using the scientific method, with failure playing a vital role in both”
+“[Academia] should embrace failure: It is a community built on the twin pillars of education and research using the scientific method, with failure playing a vital role in both”
 
 <https://journal.trialanderror.org/pub/failfast/release/4>
 
 ## Scientific Reform
 
-“reform foregrounds values that never were strangers to science such as honesty, transparency and accountability, yet seeks to embed them into changed or improved scientific processes and instruments”
+“[Reform] foregrounds values that never were strangers to science such as honesty, transparency and accountability, yet seeks to embed them into changed or improved scientific processes and instruments”
 
 <https://doi.org/10.1177/02704676221126388>
 
@@ -317,9 +316,9 @@ those blinded by greed would refuse to let a friend make a copy.”
 
 ## Independence
 
-“The power that technology companies hold could damage the autonomy of science.”
+“[Research] draws on the work of the community of researchers and should develop independently of pressure from commissioning parties and from ideological, economic, or political interests.”
 
-<https://youtu.be/9W9eN0zOJxk?si=do34xEyJXJ1wLPJZ>
+<https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/european-code-of-conduct-for-research-integrity_horizon_en.pdf>
 
 ## Community
 
@@ -353,7 +352,7 @@ those blinded by greed would refuse to let a friend make a copy.”
 
 ## Creativity
 
-“even though the creative act requires considerable effort, in the end you will be contributing to the vast network of love that supports human existence”
+“[Even] though the creative act requires considerable effort, in the end you will be contributing to the vast network of love that supports human existence”
 
 <https://www.theredhandfiles.com/chatgpt-making-things-faster-and-easier/>
 
@@ -378,13 +377,84 @@ those blinded by greed would refuse to let a friend make a copy.”
 
 ## PhD-Level AI
 
-“[...] for better and for worse, we are far from seeing the end of AI advancement. What's remarkable isn't just the individual breakthroughs [...]. It's the pace and breadth of change.”
+“[For] better and for worse, we are far from seeing the end of AI advancement. What's remarkable isn't just the individual breakthroughs [...]. It's the pace and breadth of change.”
 
 <https://www.oneusefulthing.org/p/what-just-happened>
 
 ## Vendor lock-in
 
-“[...] we demonstrate that if 'lead' researchers are able to establish a norm of contribution to the public good, a better outcome can be achieved, and we show that the general public license (GPL) used in the provision of open source software is one such mechanism.”
+“[We] demonstrate that if 'lead' researchers are able to establish a norm of contribution to the public good, a better outcome can be achieved, and we show that the general public license (GPL) used in the provision of open source software is one such mechanism.”
 
 <https://eml.berkeley.edu/~bhhall/papers/GambardellaHall_RP06_reprint.pdf>
 
+## CODECHECK
+
+“CODECHECK tackles one of the main challenges of computational research by supporting codecheckers with a workflow, guidelines and tools to evaluate computer programs underlying scientific papers.”
+
+<https://codecheck.org.uk/>
+
+## Evidence-based Policy 
+
+“Timely access to good quality and relevant research evidence, collaborations with policymakers and relationship- and skills-building with policymakers are reported to be the most important factors in influencing the use of evidence.”
+
+<https://doi.org/10.1186/1472-6963-14-2>
+
+## AI Race
+
+“Major AI companies demonstrate minimal public engagement in responsible-AI research, indicating that speed is prioritized over safety in AI development. The AI products reaching the market show limited influence from responsible-AI research findings.”
+
+<https://doi.org/10.1038/d41586-024-02985-3>
+
+## Qualitative Data
+
+“The open science movement and the research community in general can benefit from many of the practices qualitative researchers use to maintain rigor and transparency – namely, attention to providing a high level of contextual detail and reflexivity practices for mitigating bias.”
+
+<https://doi.org/10.36850/mr7>
+
+## Predatory Journals
+
+“Predatory journals and publishers are entities that prioritize self-interest at the expense of scholarship.”
+
+<https://doi.org/10.1038/d41586-019-03759-y>
+
+## Workload
+
+“[There is] a high chance that, without intervention, increased expectations to engage in open research practices may lead to unacceptable increases in demands on academics.”
+
+<https://doi.org/10.36850/mr5>
+
+## Permissive license
+
+“When you make a creative work (which includes code), the work is under exclusive copyright by default. Unless you include a license that specifies otherwise, nobody else can copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.”
+
+<https://choosealicense.com/no-permission/>
+
+## Software citation
+
+“Citation helps software developers be recognized for their work. Additionally, citation is an integral part of scientific accountability and reproducibility [...]. CodeMeta and the Citation File Format were specifically designed to enable citation of software and will likely meet your needs.”
+
+<https://fair-software.nl/recommendations/citation>
+
+## Nanopublications
+
+“Nanopublications are a formalized and machine-readable way of communicating the smallest possible units of publishable information.”
+
+<https://nanopub.readthedocs.io/en/latest/getting-started/what-are-nanopubs.html>
+
+## Enshittification
+
+“[In the final step, the] scholarly system is overwhelmed by quantity, distorted by profit motives, and is stripped of its purpose of advancing knowledge.”
+
+<https://theconversation.com/the-5-stages-of-the-enshittification-of-academic-publishing-269714>
+
+## Science Done Right
+
+“Idealistically, open science is just science done right. That means that you are managing all of your work right from the start, managing your data, thinking about licences, your own rights, about connecting with others.”
+
+<https://delta.tudelft.nl/en/article/open-science-just-science-done-right>
+
+## Silly Card Games
+
+“The GHOST collective is a group of Open Science enthusiasts from universities across the Netherlands. We make Open Science games that can be used as training materials or just for fun.”
+
+<https://ghostcollective.github.io/>
