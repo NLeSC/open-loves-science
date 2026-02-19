@@ -1,7 +1,9 @@
-# Open Science
+# Open❤️Science
 
 Open❤️Science (Open loves Science) is an educational game where you get to connect concepts in research, open science and everyday academia.
-This repository contains the website, cards as well as the code to create them. You can also find the design files to print the game yourself. The game is licensed as [CC-BY](LICENSE), so you are free to use, change, adapt and distribute the game in any way you like, as long as you reference the [authors](CITATION.cff).
+This repository contains the [website](nlesc.github.io/open-loves-science/), the cards as well as the code to create them. You can also find the design files to print the game yourself. 
+
+The game is licensed as [CC-BY](LICENSE), so you are free to use, change, adapt and distribute the game in any way you like, as long as you reference the [authors](CITATION.cff).
 
 Depending on where you live, you can also get the printed game. If you are interested, please reach out to rdm@vu.nl.
 
