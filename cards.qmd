@@ -2,7 +2,7 @@
 
 ## Inclusivity
 
-“Science is like building a house. This is not something that you can do alone.”
+“Look, science is like building a house. This is not something that you can do alone.”
 
 <https://youtu.be/tB_HeqnonNM?si=DyKlzBw1ONl1HAlf>
 
@@ -27,7 +27,7 @@
 
 ## Capitalism
 
-“[The] appropriation of traditional knowledge, privatization of the intellectual commons, commodification of teaching materials, scholarship, scientific research, and scientific publications”
+“[The] appropriation of traditional knowledge, privatization of the intellectual commons, commodification of teaching materials, scholarship, scientific research, and scientific publications [...].”
 
 <https://www.tandfonline.com/doi/full/10.1080/19460171.2017.1403342>
 
@@ -49,7 +49,6 @@
 
 <https://doi.org/10.5281/zenodo.8328514>
 
-
 ## Beyoncé
 
 “Okay, ladies, now let’s get in-formation.”
@@ -68,21 +67,21 @@
 
 <https://www.samuelmoore.org/2022/06/18/why-open-science-is-primarily-a-labour-issue/>
 
-## Free License
+## Value-driven Procurement
 
-“When you make a creative work (which includes code), the work is under exclusive copyright by default. Unless you include a license that specifies otherwise, nobody else can copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.”
+“Open-source solutions and providers sharing core academic values should be preferred. [Also], higher education institutions should be transparent in their decisions.”
 
-<https://choosealicense.com/>
+<https://www.dejongeakademie.nl/en/publications/3082247.aspx?t=In-Control-A-Manifesto-for-a-Responsible-Digital-Future-in-Higher-Education/>
 
 ## Epistemic Justice
 
-“Open and Responsible Science that seeks justice in access to knowledge puts equity between forms of knowledges and ways of knowing at the very centre of knowledge acquisition.”
+Open and Responsible Science that seeks justice in access to knowledge puts equity between forms of knowledge and ways of knowing at the very centre of knowledge acquisition.
 
 <https://youtu.be/mAurbQq8WsU?si=VdPZxliFPFij2Dft>
  
 ## Democracy
 
-“Knowledge that is created by public funding should be available to everyone and go beyond the walls of the academic system.”
+“[Knowledge] that has been created by public funding should be available to everyone and [should go] beyond the walls of the academic system.”
 
 <https://open-science.cwts.nl/introduction/introduction-to-os-five-schools-of-open-science/democratic-school>
 
@@ -112,7 +111,7 @@ A website and blog that monitors and reports on retractions of scientific resear
 
 ## Plan S
 
-A consortium of research agencies and funders from 20 countries who state that “research funded by public or private grants must be published in open access journals or platforms”
+A consortium of research agencies and funders from 20 countries who state that “research funded by public or private grants must be published in open access journals or platforms”.
 
 <https://open-science.cwts.nl/introduction/open-scholarly-communication/a-brief-overview-of-plan-s>
 
@@ -124,7 +123,7 @@ A consortium of research agencies and funders from 20 countries who state that �
 
 ## Spaghetti Code
 
-“[Research] is increasingly reliant on technology, so it’s important that researchers have access to the support and education they need to develop and use high-quality code”
+“[Research] is increasingly reliant on technology, so it’s important that researchers have access to the support and education they need to develop and use high-quality code.”
 
 <https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0>
 
@@ -142,7 +141,7 @@ A consortium of research agencies and funders from 20 countries who state that �
 
 ## APCs
 
-“Article Processing Charges and the new enclosure of research”
+“Article Processing Charges (APCs) and the new enclosure of research”
 
 <https://blogs.lse.ac.uk/impactofsocialsciences/2022/08/11/article-processing-charges-apcs-and-the-new-enclosure-of-research/>
 
@@ -154,7 +153,7 @@ A consortium of research agencies and funders from 20 countries who state that �
 
 ## Metadata
 
-“[Data] about data… to make data findable [and] to make data citable”
+“Metadata about data provides answers to questions concerning the person creating the data, the subject of the data, the type of file(s), geographic information and other aspects.”
 
 <https://www.tudelft.nl/en/library/research-data-management/r/manage/collect-and-document>
 
@@ -202,7 +201,7 @@ A consortium of research agencies and funders from 20 countries who state that �
 
 ## Digital Competence Centers {#dcc}
 
-“DCCs are still relatively unknown among researchers within universities and research institutions, even though many of them receive requests for support in the area of data, software and computing.”
+“Digitising research requires expertise, which is scarce. Digital Competence Centres (DCCs) gather that expertise. Moreover, they make it easier for institutions to share knowledge and develop services together. It turns out, needs in this area appear to be widely shared.”
 
 <https://www.surf.nl/en/magazine/digital-competence-centres-let-institutions-collaborate-more-intensively>
 
@@ -238,13 +237,13 @@ A consortium of research agencies and funders from 20 countries who state that �
 
 ## Research Software Engineer {#rse}
 
-“[A] professional who combines expertise in software development and methodology with deep knowledge of one or more research fields”
+“[A] professional who combines expertise in software development and methodology with deep knowledge of one or more research fields.”
 
 <https://doi.org/10.5281/zenodo.7994286>
 
 ## Transformative Agreements
 
-“Transformative agreements are also known as read-and-publish, publish-and-read, and offsetting agreements. It’s a contract where an institution pays for (1) a subscription to a publisher’s bundle of journals and (2) for their author’s articles to be made open access in some of those journals.”
+“[Transformative agreements] are also known as read-and-publish, publish-and-read, and offsetting agreements. It’s a contract where an institution pays for (1) a subscription to a publisher’s bundle of journals and (2) for their author’s articles to be made open access in some of those journals.”
 
 <http://dx.doi.org/10.17613/xmj2-zd67>
 
@@ -281,7 +280,7 @@ those blinded by greed would refuse to let a friend make a copy.”
 
 ## Gender
 
-“Undoing Gender in Academia: Personal Reflections on Equal Opportunity Schemes” by Susan Täuber
+“Undoing Gender in Academia: Personal Reflections on Equal Opportunity Schemes”
 
 <https://doi.org/10.1111/joms.12516>
 
@@ -317,9 +316,9 @@ those blinded by greed would refuse to let a friend make a copy.”
 
 ## Independence
 
-“The power that technology companies hold could damage the autonomy of science.”
+“[Research] draws on the work of the community of researchers and should develop independently of pressure from commissioning parties and from ideological, economic, or political interests.”
 
-<https://youtu.be/9W9eN0zOJxk?si=do34xEyJXJ1wLPJZ>
+<https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/european-code-of-conduct-for-research-integrity_horizon_en.pdf>
 
 ## Community
 
@@ -424,7 +423,7 @@ those blinded by greed would refuse to let a friend make a copy.”
 
 <https://doi.org/10.36850/mr5>
 
-## Permissive licenses
+## Permissive license
 
 “When you make a creative work (which includes code), the work is under exclusive copyright by default. Unless you include a license that specifies otherwise, nobody else can copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.”
 
@@ -444,7 +443,7 @@ those blinded by greed would refuse to let a friend make a copy.”
 
 ## Enshittification
 
-“Enshittification follows. The scholarly system is overwhelmed by quantity, distorted by profit motives, and is stripped of its purpose of advancing knowledge.”
+“[In the final step, the] scholarly system is overwhelmed by quantity, distorted by profit motives, and is stripped of its purpose of advancing knowledge.”
 
 <https://theconversation.com/the-5-stages-of-the-enshittification-of-academic-publishing-269714>
 
