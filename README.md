@@ -1,7 +1,9 @@
-# Open Loves Science
+# Open Science
 
-This repository contains the website, cards, and code to create cards for Open❤️Science, a educational game similar to Apples to Apples.
-This game can be played in person or online. If you are interested in the printed game, please reach out to us (rdm@vu.nl).
+Open❤️Science (Open loves Science) is an educational game where you get to connect concepts in research, open science and everyday academia.
+This repository contains the website, cards as well as the code to create them. You can also find the design files to print the game yourself. The game is licensed as [CC-BY](LICENSE), so you are free to use, change, adapt and distribute the game in any way you like, as long as you reference the [authors](CITATION.cff).
+
+Depending on where you live, you can also get the printed game. If you are interested, please reach out to rdm@vu.nl.
 
 ## Goal of the Game
 
@@ -23,7 +25,7 @@ judge rotates, and the number of rounds is determined by the number of players.
 
 ## Acknowledgements
 
-This game was created by the **GHOST Collective**, Games of Horror for Open Science Training. GHOST includes:
+This game was created by the [GHOST Collective](https://ghostcollective.github.io/), Games of Horror for Open Science Training. GHOST includes:
 
 - Bjorn Bartholdy, TU Delft
 - Dafne Jansen, Universiteit Utrecht
@@ -37,4 +39,4 @@ This game was created by the **GHOST Collective**, Games of Horror for Open Scie
 - Stephanie van de Sandt, Vrije Universiteit Amsterdam 
 - Tycho Hofstra, Vrije Universiteit Amsterdam 
 
-Previous GHOST collective games include the [Software Horror Escape Room](https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html) and [Data Horror Escape Room](https://sites.google.com/vu.nl/datahorror/home?authuser=0)
+For an overview of all of our digital and physical games, visit our [website](https://ghostcollective.github.io/).
