@@ -7,7 +7,6 @@ message: >-
 
 title: "Open loves Science"
 version: "2nd Edition"
-date-released: 2026-03-01
 doi: "10.5281/zenodo.10609559"
 url: "https://ghostcollective.github.io/"
 repository-code: "https://github.com/NLeSC/open-loves-science"
@@ -22,3 +21,13 @@ keywords:
   - card game
   - training
   - gamification
+
+preferred-citation:
+  type: generic
+  authors:
+    - name: "GHOST collective, Games of Horror for Open Science Training"
+  title: "Open loves Science (2nd Edition) [Card game]"
+  year: 2026
+  month: 2
+  doi: "10.5281/zenodo.10609559"
+  url: "https://ghostcollective.github.io/"
