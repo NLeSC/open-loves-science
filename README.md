@@ -23,20 +23,10 @@ and that judge plays a red card, which presents a larger Open Science topic. The
 playing the white card that the judge determines to be the match for the red card. The role of the
 judge rotates, and the number of rounds is determined by the number of players. 
 
+## Other GHOST Games
+
+The GHOST Collective has published a range of digital and physical games. You can find the full list on our [website](https://ghostcollective.github.io/games.html).
+
 ## Acknowledgements
 
-This game was created by the [GHOST Collective](https://ghostcollective.github.io/), Games of Horror for Open Science Training. GHOST includes:
-
-- Bjorn Bartholdy, TU Delft
-- Dafne Jansen, Universiteit Utrecht
-- Dan Rudmann, Leiden University
-- Elisa Rodenburg, Vrije Universiteit Amsterdam 
-- Eva Lekkerkerker, University of Amsterdam
-- Lena Karvovskaya, Vrije Universiteit Amsterdam
-- Lieke de Boer, Netherlands eScience Center
-- Meron Vermaas, Vrije Universiteit Amsterdam
-- Stefan Kirsch, Tilburg University
-- Stephanie van de Sandt, Vrije Universiteit Amsterdam 
-- Tycho Hofstra, Vrije Universiteit Amsterdam 
-
-For an overview of all of our digital and physical games, visit our [website](https://ghostcollective.github.io/).
+This game was created by the [GHOST Collective](https://ghostcollective.github.io/), Games of Horror for Open Science Training. A full list of the amazing people who contributed to our games can be found on our [website](https://ghostcollective.github.io/).
