@@ -318,7 +318,7 @@ those blinded by greed would refuse to let a friend make a copy.”
 
 “[Research] draws on the work of the community of researchers and should develop independently of pressure from commissioning parties and from ideological, economic, or political interests.”
 
-<https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/european-code-of-conduct-for-research-integrity_horizon_en.pdf>
+<https://doi.org/10.26356/ECOC>
 
 ## Community
 
